@@ -1,0 +1,81 @@
+baseURL: # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
+title: Fragments#KH50
+paginate: 5
+theme: charlolamode
+
+menu:
+  main:
+    - name: Description
+      url: /description/
+
+# - name: Contact
+#   url: /contact/
+#   weight: 30
+# - name: Articles
+#   url: /articles/
+#   weight: 20
+# - name: Projects
+#   url: /projects/
+#   weight: 15
+
+# - name: Categories
+#   url: /categories/
+#   weight: 10
+# - name: new Tab
+#   url: /newtab/
+#   weight: defines order of tabs
+
+params:
+  author: loiklak
+
+  defaultTheme: auto
+  # disableThemeToggle: true
+  displayFullLangName: true
+  ShowCodeCopyButtons: true
+
+  profileMode:
+    # Disable to populate home page with 'mainSections' content
+    enabled: true
+    title: Fragments#KH50
+    description: |
+
+      Fragments KH50 a été principalement initié par des descendants de Cambodgiens.
+
+
+      Du fait de l’exil et de la guerre, chacun ne possède que quelques fragments de l’histoire de sa famille.
+
+
+      Le projet \#FRAGMENTS KH50 veut rassembler ces fragments d’histoires personnelles pour reconstituer la Mémoire collective
+    imageUrl: "/images/fragment-rond.svg"
+    imageTitle: logo fragments
+    imageWidth: 300
+    imageHeight: 300
+    buttons:
+      - name: Contribuer au project sur HelloAsso
+        url: https://www.helloasso.com/
+
+  socialIcons:
+    - name: linkedin
+      url: "https://www.linkedin.com/in/heycharlola/"
+    - name: youtube
+      url: yoururl
+    - name: twitter
+      url: yoururl
+    - name: facebook
+      url: yoururl
+
+  # change favicon in images folder (icon for web tab)
+  assets:
+    favicon: "/images/favicon.ico"
+    favicon16x16: "/images/favicon-16x16.png"
+    favicon32x32: "/images/favicon-32x32.png"
+    apple_touch_icon: "/images/apple-touch-icon.png"
+    safari_pinned_tab: "/images/apple-touch-icon.png"
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+enableEmoji: true
+pygmentsUseClasses: true
+
+minify:
+  disableXML: true
