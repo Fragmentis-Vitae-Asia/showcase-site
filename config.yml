@@ -51,8 +51,10 @@ params:
     imageWidth: 300
     imageHeight: 300
     buttons:
-      - name: Contribuer au projet sur HelloAsso ❤️
-        url: https://www.helloasso.com/
+      - name: Adhérer à l'association 🤝
+        url: https://www.helloasso.com/associations/fragmentis-vitae/adhesions/adhesion
+      - name: Faire un don ❤️
+        url: https://www.helloasso.com/associations/fragmentis-vitae/formulaires/1
 
   socialIcons:
     - name: linkedin
