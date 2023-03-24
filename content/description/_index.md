@@ -2,4 +2,4 @@
 title: Description
 ---
 
-Ceci est la description du projet.
+🚧 **Cette page est en cours de rédaction.** 🚧
