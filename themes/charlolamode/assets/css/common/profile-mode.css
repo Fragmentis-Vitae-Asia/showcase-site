@@ -49,4 +49,5 @@
     line-height: 1.6;
     display: --webkit-box;
     --webkit-box-orient: vertical
+    max-width: 60ch;
 }
