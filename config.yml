@@ -7,6 +7,10 @@ menu:
   main:
     - name: Description
       url: /description/
+    - name: Les porteurs du projet
+      url: /porteurs-projet/
+    - name: Ils nous soutiennent
+      url: /soutiens/
 
 # - name: Contact
 #   url: /contact/
