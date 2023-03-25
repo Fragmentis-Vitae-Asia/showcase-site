@@ -32,7 +32,7 @@
     margin: 8px;
     padding: 6px;
     transition-property: transform opacity;
-    transition-duration: 0.2s;
+    transition-duration: var(--transition-duration);
     transition-timing-function: ease-out;
 }
 
