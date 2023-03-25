@@ -31,7 +31,13 @@
     border-radius: var(--radius);
     margin: 8px;
     padding: 6px;
-    transition: transform 0.1s;
+    transition-property: transform opacity;
+    transition-duration: 0.2s;
+    transition-timing-function: ease-out;
+}
+
+.button:hover {
+    opacity: 0.8;
 }
 
 .button-inner {
