@@ -14,7 +14,7 @@ De nombreux exilés du génocide et de la guerre au Cambodge ont trouvé refuge 
 
 **Afin d’aider chacun·e à renouer avec son histoire, mais aussi à découvrir la grande histoire**, FRAGMENTS #KH50 voit le jour.
 
-L’association **Fragmentis Vitae Asia** vise ainsi à retracer ces chemins pour ces familles, mais aussi **pour toute personne intéressée par ce moment phare de l’histoire du XXe siècle.**
+L’association _Fragmentis Vitae Asia_ vise ainsi à retracer ces chemins pour ces familles, mais aussi **pour toute personne intéressée par ce moment phare de l’histoire du XXe siècle.**
 
 ## En quoi consiste concrètement FRAGMENTS #KH50 ?
 
@@ -47,6 +47,6 @@ En plus d’adhérer à l’association, vous pouvez **adresser un don qui perme
 
 Des bénévoles œuvrent pour donner vie au projet ; mais votre aide financière permettra de concrétiser au mieux ces trois actions. **Le montant du don est libre**, chaque contribution nous aidera !
 
-**Pour rappel, chaque don ouvre à une déduction d'impôts de 66%.**
+_Pour rappel, chaque don ouvre à une déduction d'impôts de 66%._
 
 [Faire un don ❤️](https://www.helloasso.com/associations/fragmentis-vitae/formulaires/1)
