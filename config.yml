@@ -1,5 +1,5 @@
 baseURL: https://www.fragmentis-vitae.org/ # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-title: Fragments#KH50
+title: "Fragments #KH50"
 paginate: 5
 theme: charlolamode
 
@@ -34,6 +34,7 @@ menu:
 
 params:
   author: loiklak
+  description: "Le projet FRAGMENTS #KH50 vise à réunir les fragments de l’histoire du peuple khmer, exilé de la guerre et du génocide au Cambodge, à l’occasion du cinquantenaire de la prise de Phnom Penh en 2025."
 
   defaultTheme: auto
   # disableThemeToggle: true
@@ -44,17 +45,14 @@ params:
     # Disable to populate home page with 'mainSections' content
     enabled: true
     title: Fragments#KH50
-    description: |
+    description:
+      "Fragments #KH50 a été principalement initié par des descendants de Cambodgiens.\n
 
-      Fragments KH50 a été principalement initié par des descendants de Cambodgiens.
+      Du fait de l’exil et de la guerre, chacun ne possède que quelques fragments de l’histoire de sa famille.\n
 
+      **Le projet #FRAGMENTS KH50 veut rassembler ces fragments d’histoires personnelles pour reconstituer la Mémoire collective**\n
 
-      Du fait de l’exil et de la guerre, chacun ne possède que quelques fragments de l’histoire de sa famille.
-
-
-      **Le projet \#FRAGMENTS KH50 veut rassembler ces fragments d’histoires personnelles pour reconstituer la Mémoire collective**
-
-      [> _En savoir plus_](/presentation/)
+      [> _En savoir plus_](/presentation/)"
 
     imageUrl: "/images/fragment-rond.svg"
     imageTitle: logo fragments
