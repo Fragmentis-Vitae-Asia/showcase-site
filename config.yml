@@ -8,15 +8,15 @@ menu:
     - name: Présentation
       url: /presentation/
       weight: 10
-    - name: Les porteurs du projet
-      url: /porteurs-projet/
-      weight: 20
-    - name: Ils nous soutiennent
+    - name: Soutiens
       url: /soutiens/
       weight: 30
     - name: Contact
       url: /contact/
       weight: 40
+    - name: Porteurs du projet
+      url: /porteurs-projet/
+      weight: 50
 
 # - name: Contact
 #   url: /contact/
