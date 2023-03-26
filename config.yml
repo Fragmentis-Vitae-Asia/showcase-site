@@ -91,3 +91,8 @@ pygmentsUseClasses: true
 
 minify:
   disableXML: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
