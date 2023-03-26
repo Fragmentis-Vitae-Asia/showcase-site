@@ -6,6 +6,8 @@ title: Présentation projet FRAGMENTS KH50
 
 Le projet FRAGMENTS #KH50 vise à réunir les **fragments** de l’histoire du peuple **khmer**, exilé de la guerre et du génocide au Cambodge, à l’occasion du **cinquantenaire** de la prise de Phnom Penh en 2025.
 
+Test édition
+
 Du fait de l’exil, chacun ne possède que quelques fragments de l’histoire de sa famille. Le projet a pour objectif d’aider à réunir ces fragments d’histoires personnelles, pour reconstituer la mémoire collective.
 
 ## Pourquoi ce projet ?
