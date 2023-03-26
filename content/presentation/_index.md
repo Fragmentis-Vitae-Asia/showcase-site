@@ -20,7 +20,7 @@ L’association _Fragmentis Vitae Asia_ vise ainsi à retracer ces chemins pour 
 
 Trois finalités :
 
-- **Rendre hommage aux victimes**
+- **Rendre hommage aux victimes de la guerre et du génocide au Cambodge**
 - **Trouver des réponses dans les quêtes d’identité** des descendants
 - **Exprimer la reconnaissance** des descendants de réfugiés cambodgiens à la France, leur pays d’accueil
 
