@@ -69,13 +69,11 @@ params:
 
   socialIcons:
     - name: linkedin
-      url: "https://www.linkedin.com/in/heycharlola/"
-    - name: youtube
-      url: yoururl
+      url: "https://www.linkedin.com/showcase/fragments-kh50/"
     - name: twitter
-      url: yoururl
+      url: "https://twitter.com/FragmentisVitae"
     - name: facebook
-      url: yoururl
+      url: "https://www.facebook.com/Fragments.kh50"
 
   # change favicon in images folder (icon for web tab)
   assets:
