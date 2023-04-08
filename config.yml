@@ -43,6 +43,7 @@ params:
   # disableThemeToggle: true
   displayFullLangName: true
   ShowCodeCopyButtons: true
+  logoUrl: "/images/fragment-rond.svg"
 
   profileMode:
     # Disable to populate home page with 'mainSections' content

@@ -42,6 +42,9 @@
 <header class="header">
     <nav class="nav">
         <div class="logo">
+            <img src="{{ $.Site.Params.logoUrl | absURL }}" alt="fragments KH50 logo"
+                height="40" width="40" />
+
             {{- $label_text := (.Site.Params.label.text | default .Site.Title) }}
             {{- if .Site.Title }}
             <a href="{{ "" | absLangURL }}" accesskey="h" title="{{ $label_text }} (Alt + H)">
