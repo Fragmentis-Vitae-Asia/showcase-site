@@ -1,6 +1,6 @@
 .founders-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  display: flex;
+  flex-direction: column;
   gap: 32px;
 }
 
@@ -8,4 +8,24 @@
   display: grid;
   grid-template-rows: 200px auto 1fr;
   justify-items: center;
+}
+
+.founder-card img {
+  height: 100%;
+}
+
+@media screen and (min-width: 600px) {
+  .founder-card {
+    grid-template-columns: 200px 1fr;
+    grid-template-rows: auto 1fr;
+    gap: 32px;
+  }
+
+  .founder-card img {
+    object-fit: cover;
+    grid-row: 1 / 3;
+    align-self: center;
+    width: 100%;
+    height: auto;
+  }
 }
