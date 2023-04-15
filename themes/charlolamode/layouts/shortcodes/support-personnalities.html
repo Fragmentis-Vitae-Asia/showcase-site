@@ -1,0 +1,8 @@
+{{ range $.Site.Data.supports.personnalities }}
+<ul>
+{{ range .list }}
+  {{ partial "personnalities.html" . }}
+{{ end }}
+</ul>
+<br>
+{{ end }}

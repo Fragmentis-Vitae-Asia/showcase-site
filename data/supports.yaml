@@ -1,0 +1,34 @@
+personnalities:
+  - section1:
+    list:
+      - "**Frédéric Dabi**, _directeur-général de l’institut de sondage IFOP_"
+      - "**Bernard Delorme**, _président de la Chambre des notaires du Grand-Anjou_"
+      - "**Yann Dubosc**, _maire de Bussy-Saint-Georges, conseiller départemental de Seine-et-Marne, président de l’établissement public d’aménagement de Marne la Vallée (EpaMarne)_"
+      - "**Hadrien Ghomi**, _député de Seine-et-Marne, vice-président du Groupe d’amitié France-Cambodge à l’Assemblée nationale_"
+      - "**Emma Abreu**, _conseillère départementale de Seine-et-Marne_"
+      - "**Mathieu Viskovic**, _maire de Noisiel (Seine-et-Marne)_"
+      - "**Nathalie Tortrat**, _maire de Gouvernes (Seine-et-Marne) et conseillère régionale d’Ile-de-France_"
+      - "**Olivier Colaisseau**, _maire de Chanteloup-en-Brie (Seine-et-Marne)_"
+      - "**Michel Gérès**, _maire de Croissy-Beaubourg (Seine-et-Marne)_"
+      - "**Mickaël Gaillard**, _adjoint au maire de Croissy-Beaubourg (Seine-et-Marne)_"
+      - "**Sithal Tieng**, _premier adjoint au maire de Noisiel (Seine-et-Marne)_"
+      - "**Daniel Tran**, _Conseiller d’arrondissement Paris 13e_"
+
+  - section2:
+    list:
+      - "**Valéry Vuong**, _vice-président du Conseil représentatif des associations asiatiques de France (Craaf)_"
+      - "**Thomas Cai**, _président de l’AJCF, association des jeunes Chinois de France_"
+
+  - section3:
+    list:
+      - "**Aurélia Alessandra**, _principale du collège Jacques-Yves Cousteau de Bussy-Saint-Georges_"
+      - "**Chouvary Khun**, _pharmacienne_"
+      - "**Hak Ngy** _Khun, pharmacien_"
+
+  - section3:
+    list:
+      - "**Jonathan Eap**, _comédien_"
+      - "**Diana Chao**, _cheffe de Cuisine, créatrice de la chaîne YouTube Chez Mama Ly_"
+      - "**Catherine Ngo**, _autrice_"
+      - "**Linda Nguon**, _créatrice de Banh Mi Média_"
+      - "**Mike Nguyen**, _comédien_"
