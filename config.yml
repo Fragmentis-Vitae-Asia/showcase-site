@@ -75,6 +75,8 @@ params:
       url: "https://twitter.com/FragmentisVitae"
     - name: facebook
       url: "https://www.facebook.com/Fragments.kh50"
+    - name: instagram
+      url: "https://www.instagram.com/fragmentis.v/?igshid=YmMyMTA2M2Y"
 
   # change favicon in images folder (icon for web tab)
   assets:
