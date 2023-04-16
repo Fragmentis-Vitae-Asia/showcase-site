@@ -15,6 +15,7 @@ L’objectif principal du projet **FRAGMENTS #KH50** est de **réunir les fragme
 ## Pourquoi ce projet ?
 
 Le projet **FRAGMENTS #KH50** a trois finalités :
+
 **1-Rendre hommage aux victimes**
 **Création d’un mémorial en hommage aux victimes du génocide et crime de masse au Cambodge**  
 Un monument dédié aux victimes du génocide et crime de masse au Cambodge sera érigé dans la commune de Bussy-Saint-Georges en Seine-et-Marne (77), dans le prolongement de l’Esplanade des Religions et des Cultures. Une grande partie de la communauté cambodgienne de France réside à Bussy-Saint-Georges. 
