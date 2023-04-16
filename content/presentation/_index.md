@@ -11,6 +11,9 @@ Porté par l’association Fragmentis Vitae Asia, le projet FRAGMENTS #KH50 vise
 Aujourd’hui encore, seules des bribes de vies restent, conséquences d’un exil forcé et de la disparition d’environ deux millions de parents, grands-parents, frères, sœurs, oncles, tantes, neveux, nièces, cousins, cousines. Amputés des membres de leur famille, les survivants restent meurtris par la disparition de leurs proches. Muet de douleur, la transmission auprès de la deuxième génération et des suivantes ne se fait pas ou filtre peu. 
 L’objectif principal du projet **FRAGMENTS #KH50** est de **réunir les fragments d’histoires personnelles, pour reconstituer une mémoire collective**.
 
+Nous sommes honorés d’avoir pu présenter le projet à la **Famille Royale NORODOM (រាជវង្សនរោត្តម)**. 
+Des discussions sont en cours pour son Haut Patronage, pour la bonne réalisation de ce projet, pour les générations Khmers futures et pour le développement culturel et l’histoire qui lie nos deux pays de cœur que sont le Cambodge et la France. 
+
 
 ## Pourquoi ce projet ?
 
