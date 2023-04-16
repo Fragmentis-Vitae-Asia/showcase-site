@@ -4,31 +4,37 @@ title: Présentation projet FRAGMENTS KH50
 
 ## Présentation
 
-Le projet FRAGMENTS #KH50 vise à réunir les **fragments** de l’histoire du peuple **khmer**, exilé de la guerre et du génocide au Cambodge, à l’occasion du **cinquantenaire** de la prise de Phnom Penh en 2025.
+Porté par l’association Fragmentis Vitae Asia, le projet FRAGMENTS #KH50 vise à réunir les **fragments**  du peuple khmer autour de projets fédérateurs 5O ans après le début du génocide et les crimes de masse perpétués par les Khmers rouges. 
 
-Du fait de l’exil, chacun ne possède que quelques fragments de l’histoire de sa famille. Le projet a pour objectif d’aider à réunir ces fragments d’histoires personnelles, pour reconstituer la mémoire collective.
+
+ Au gré de l’histoire du Cambodge, la population cambodgienne s’est fragmentée pour fuir la guerre civile entre 1970-75, puis le régime sous Pol Pot entre le 17 avril 1975 et le 7 janvier 1979. 
+Aujourd’hui encore, seules des bribes de vies restent, conséquences d’un exil forcé et de la disparition d’environ deux millions de parents, grands-parents, frères, sœurs, oncles, tantes, neveux, nièces, cousins, cousines. Amputés des membres de leur famille, les survivants restent meurtris par la disparition de leurs proches. Muet de douleur, la transmission auprès de la deuxième génération et des suivantes ne se fait pas ou filtre peu. 
+L’objectif principal du projet **FRAGMENTS #KH50** est de **réunir les fragments d’histoires personnelles, pour reconstituer une mémoire collective**.
+
 
 ## Pourquoi ce projet ?
 
-De nombreux exilés du génocide et de la guerre au Cambodge ont trouvé refuge en France. Aujourd’hui, les descendants connaissent souvent des fragments de leur histoire mais l’histoire complète reste difficile à percevoir. Sujet complexe et chargé en souvenirs, il est difficile pour les aînés de partager l’intégralité de leur parcours ; certainement par pudeur et avant tout pour protéger leurs descendants. Pour autant, les plus petites anecdotes comme les grands moments clés de leur chemin font partie de qui ils sont, et sont au fondement de la construction de leurs descendants.
+Le projet **FRAGMENTS #KH50** a trois finalités :
+**1-Rendre hommage aux victimes**
+**Création d’un mémorial en hommage aux victimes du génocide et crime de masse au Cambodge**  
+Un monument dédié aux victimes du génocide et crime de masse au Cambodge sera érigé dans la commune de Bussy-Saint-Georges en Seine-et-Marne (77), dans le prolongement de l’Esplanade des Religions et des Cultures. Une grande partie de la communauté cambodgienne de France réside à Bussy-Saint-Georges. 
 
-**Afin d’aider chacun·e à renouer avec son histoire, mais aussi à découvrir la grande histoire**, FRAGMENTS #KH50 voit le jour.
 
-L’association _Fragmentis Vitae Asia_ vise ainsi à retracer ces chemins pour ces familles, mais aussi **pour toute personne intéressée par ce moment phare de l’histoire du XXe siècle.**
+**2-Accompagner la jeune génération et celle à venir vers leur quête de soi**
+Par pudeur et instinct de protection, les aînés qui ont connu la funeste période entre avril 1975 et janvier 1979, partagent peu leur parcours. 
+Pourtant, les plus petites anecdotes de nos parents et aînés, comme les grands moments de leur vie, expliquent le fondement de leur existence en tant d’individu. Par extension, leurs histoires influent sur celle la deuxième génération, puisque les enfants héritent d’une manière ou d’une autre de leurs parents. Afin de fédérer les générations et libérer les paroles, le **projet FRAGMENTS #KH50** prévoit :
+ 
+**La production d’un film documentaire retraçant l’exode de rescapés.**
+Le film retracera le parcours des familles et leur issue à travers le portrait intergénérationnel de tout un peuple. À partir du regard des auteurs partis sur place pour suivre le trajet de leurs parents. Au gré des rencontres qui parsèment leurs routes, ce sera l’occasion de récolter des témoignages en forme d’héritage. Chaque témoignage constitue ainsi un fragment de notre histoire. Le film documentaire recueillera aussi des success stories, des témoignages de générations Khmers ayant réussi à se reconstruire et construire sur leur terre d’accueil et à l’international.
 
-## En quoi consiste concrètement FRAGMENTS #KH50 ?
+**La mise en place d’une plateforme en ligne pour recueillir et consulter les témoignages des rescapés et réfugiés**.
+La plateforme sera un lieu digital en web3 qui accueillera la version NFT dématérialisée du monument. Les familles pourront aussi découvrir la genèse du projet et un métavers où différents parcours des familles via différents pays permettra de comprendre quels ont été les chemins que les familles ont pris pour arriver à leur terre d’accueil finale. Ces fragments de témoignages et d’histoire seront reliés au monument et permettront aux familles d’interagir, de pouvoir reconstituer les fragments de vie et de leurs histoires familiales.
 
-Trois finalités :
 
-- **Rendre hommage aux victimes de la guerre et du génocide au Cambodge**
-- **Trouver des réponses dans les quêtes d’identité** des descendants
-- **Exprimer la reconnaissance** des descendants de réfugiés cambodgiens à la France, leur pays d’accueil
+**3-Exprimer la reconnaissance et de sentiment d’appartenance des descendants de réfugiés cambodgiens envers la France**.
+En fuyant ou évitant le pire, de nombreux cambodgiens ont trouvé refuge en France offrant à leur descendance une vie plus propice à l’avenir. 
+Le projet **FRAGMENTS #KH50** organisera plusieurs rassemblements qui seront autant d’occasions pour les franco-khmers d’exprimer leur sentiment de fierté et d’appartenance à la France. 
 
-Concrètement, les actions de l’association se traduiront par :
-
-- **Un film documentaire** retraçant l’exode de rescapés. Il reconstituera les parcours divers et variés des cambodgiens, de leurs villes natales jusqu’aux frontières des pays du Mékong, et dont la destination finale a souvent été un autre continent. Le film permettra de donner de la visibilité à cette histoire phare du XXe siècle, et pourra constituer une catharsis pour tout un peuple.
-- **Un mémorial en hommage aux victimes des guerres et du génocide au Cambodge** accueillant une importante communauté d’origine cambodgienne, le monument sera situé dans la commune de Bussy-Saint-Georges en Seine-et-Marne, dans le prolongement de l’Esplanade des Religions et des Cultures.
-- **Une plateforme en ligne** pour recueillir et consulter les témoignages des rescapés et des réfugiés
 
 ## Comment puis-je aider ?
 
@@ -47,6 +53,5 @@ En plus d’adhérer à l’association, vous pouvez **adresser un don qui perme
 
 Des bénévoles œuvrent pour donner vie au projet ; mais votre aide financière permettra de concrétiser au mieux ces trois actions. **Le montant du don est libre**, chaque contribution nous aidera !
 
-_Pour rappel, chaque don ouvre à une déduction d'impôts de 66%._
 
 [**Faire un don ❤️**](https://www.helloasso.com/associations/fragmentis-vitae/formulaires/1)
