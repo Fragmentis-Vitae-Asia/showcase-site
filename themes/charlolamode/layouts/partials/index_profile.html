@@ -5,9 +5,8 @@
         <img src="{{ .imageUrl | absURL }}" alt="{{ .imageTitle | default " profile image" }}"
             height="{{ .imageHeight | default 150 }}" width="{{ .imageWidth | default 150 }}" />
         {{- end }}
+
         <h1>{{ .title | default $.Site.Title | markdownify }}</h1>
-        <div class="profile-description">{{ .description | markdownify }}</div>
-        {{- partial "social_icons.html" $.Site.Params.socialIcons -}}
 
         {{- with .buttons }}
         <div class="buttons">
@@ -18,6 +17,10 @@
             {{- end }}
         </div>
         {{- end }}
+
+        <div class="profile-description">{{ .description | markdownify }}</div>
+
+        {{- partial "social_icons.html" $.Site.Params.socialIcons -}}
     </div>
     {{- end}}
 </div>

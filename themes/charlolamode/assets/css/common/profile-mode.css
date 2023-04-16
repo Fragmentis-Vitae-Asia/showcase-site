@@ -22,12 +22,12 @@
 
 .buttons {
     flex-wrap: wrap;
-    max-width: 400px;
     margin: 0 auto;
 }
 
 .button {
-    background: var(--tertiary);
+    background: var(--accent);
+    color: var(--accent-contrast);
     border-radius: var(--radius);
     margin: 8px;
     padding: 6px;
