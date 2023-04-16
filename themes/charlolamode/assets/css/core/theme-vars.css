@@ -16,6 +16,7 @@
   --code-bg: rgb(245, 245, 245);
   --border: rgb(238, 238, 238);
   --transition-duration: 0.2s;
+  --accent: #CA5516;
 }
 
 .dark {
