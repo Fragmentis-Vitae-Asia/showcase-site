@@ -1,5 +1,5 @@
 ---
-title: Les porteurs du projet
+title: Les porteurs et porteuses du projet
 ---
 
 {{% founders %}}
