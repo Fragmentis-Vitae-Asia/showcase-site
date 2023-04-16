@@ -50,13 +50,10 @@ params:
     enabled: true
     title: Fragments#KH50
     description:
-      "Fragments #KH50 a été principalement initié par des descendants de Cambodgiens.\n
+      "Fragments #KH50 a été principalement initié par des descendants de Cambodgiens. Du fait de l’exil et de la guerre, chacun ne possède que quelques fragments de l’histoire de sa famille.\n
 
-      Du fait de l’exil et de la guerre, chacun ne possède que quelques fragments de l’histoire de sa famille.\n
-
-      **Le projet #FRAGMENTS KH50 veut rassembler ces fragments d’histoires personnelles pour reconstituer la Mémoire collective**\n
-
-      [> _En savoir plus_](/presentation/)"
+      **Le projet #FRAGMENTS KH50 souhaite rassembler ces fragments d’histoires personnelles pour reconstituer la Mémoire collective.**\n
+      "
 
     imageUrl: "/images/fragment-rond.svg"
     imageTitle: logo fragments

@@ -20,6 +20,8 @@
 
         <div class="profile-description">{{ .description | markdownify }}</div>
 
+        <a class="profile-about-link" href="/presentation">En savoir plus</a>
+
         {{- partial "social_icons.html" $.Site.Params.socialIcons -}}
     </div>
     {{- end}}
