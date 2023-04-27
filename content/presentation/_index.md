@@ -4,7 +4,7 @@ title: Présentation projet FRAGMENTS KH50
 
 ## Présentation
 
-Porté par l’association Fragmentis Vitae Asia, le projet FRAGMENTS #KH50 vise à réunir les **fragments**  du peuple khmer autour de projets fédérateurs 5O ans après le début du génocide et les crimes de masse perpétués par les Khmers rouges. 
+Porté par l’association Fragmentis Vitae Asia, le projet FRAGMENTS #KH50 vise à réunir les **fragments**  du peuple cambodgien autour de projets fédérateurs 5O ans après le début du génocide et les crimes de masse perpétrés par les Khmers rouges. 
 
 
  Au gré de l’histoire du Cambodge, la population cambodgienne s’est fragmentée pour fuir la guerre civile entre 1970-75, puis le régime sous Pol Pot entre le 17 avril 1975 et le 7 janvier 1979. 
