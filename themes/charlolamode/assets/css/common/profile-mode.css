@@ -14,9 +14,37 @@
     padding-bottom: 12px;
 }
 
+.hero {
+    height: 350px;
+    width: 100%;
+    margin-bottom: 32px;
+    padding: 16px;
+    background-image: url(/images/hero.jpg);
+    background-size: cover;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero h3 {
+    color: #434F43;
+}
+
+.hero img {
+    height: 200px;
+}
+
+@media (max-width: 600px) {
+    .hero {
+        height: 330px;
+        margin-bottom: 16px;
+
+        flex-direction: column;
+    }
+}
+
 .profile img {
-    display: inline-table;
-    border-radius: 50%;
     pointer-events: none;
 }
 

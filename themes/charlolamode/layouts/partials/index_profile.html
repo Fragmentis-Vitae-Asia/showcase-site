@@ -1,10 +1,10 @@
 <div class="profile">
     {{- with .Site.Params.profileMode }}
     <div class="profile_inner">
-        {{- if .imageUrl -}}
-        <img src="{{ .imageUrl | absURL }}" alt="{{ .imageTitle | default " profile image" }}"
-            height="{{ .imageHeight | default 150 }}" width="{{ .imageWidth | default 150 }}" />
-        {{- end }}
+        <div class="hero">
+            <img src="images/fragment-rond.svg" alt="fragment rond">
+            <h3>Rassembler nos fragments d'histoires pour reconstituer notre mémoire collective</span>
+        </div>
 
         <h1>{{ .title | default $.Site.Title | markdownify }}</h1>
 
