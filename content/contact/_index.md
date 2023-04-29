@@ -2,6 +2,8 @@
 title: Contact
 ---
 
+![Hero image](/images/hero.jpg)
+
 <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));">
   <div>
     <h2>Adresse postale</h2>
