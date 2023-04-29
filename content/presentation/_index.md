@@ -2,6 +2,8 @@
 title: Présentation projet FRAGMENTS KH50
 ---
 
+![Hero image](/images/hero.jpg)
+
 ## Présentation
 
 Porté par l’association Fragmentis Vitae Asia, le projet FRAGMENTS #KH50 vise à réunir les **fragments**  du peuple cambodgien autour de projets fédérateurs 5O ans après le début du génocide et les crimes de masse perpétrés par les Khmers rouges. 
