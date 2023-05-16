@@ -41,6 +41,8 @@ La plateforme sera un lieu digital en web3 qui accueillera la version NFT démat
 En fuyant ou évitant le pire, de nombreux cambodgiens ont trouvé refuge en France offrant à leur descendance une vie plus propice à l’avenir. 
 Le projet **FRAGMENTS #KH50** organisera plusieurs rassemblements qui seront autant d’occasions pour les franco-khmers d’exprimer leur sentiment de fierté et d’appartenance à la France. 
 
+Un comité scientifique composé de membre du réseau de recherche des Migrations asiatiques en France (MAF) a été constitué pour suivre le projet.
+
 
 ## Comment puis-je aider ?
 
