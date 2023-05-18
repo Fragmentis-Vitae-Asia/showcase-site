@@ -6,7 +6,7 @@ title: Présentation projet FRAGMENTS KH50
 
 ## Présentation
 
-Porté par l’association Fragmentis Vitae Asia, le projet FRAGMENTS #KH50 vise à réunir les **fragments**  du peuple cambodgien autour de projets fédérateurs 5O ans après le début du génocide et les crimes de masse perpétrés par les Khmers rouges. 
+Porté par l’association Fragmentis Vitae Asia, le projet FRAGMENTS #KH50 vise à réunir les **fragments**  du peuple cambodgien autour de projets fédérateurs 5O ans après le début du génocide et des crimes de masse perpétrés par les Khmers rouges. 
 
 
 Au gré de l’histoire du Cambodge, la population cambodgienne s’est fragmentée pour fuir la guerre civile entre 1970-75, puis le régime sous Pol Pot entre le 17 avril 1975 et le 7 janvier 1979. 
@@ -29,8 +29,8 @@ Des discussions sont en cours pour son Haut Patronage, pour la bonne réalisatio
 Le projet **FRAGMENTS #KH50** a trois finalités :
 
 **1-Rendre hommage aux victimes**
-**Création d’un mémorial en hommage aux victimes du génocide et crime de masse au Cambodge**  
-Un monument dédié aux victimes du génocide et crime de masse au Cambodge sera érigé dans la commune de Bussy-Saint-Georges en Seine-et-Marne (77), dans le prolongement de l’Esplanade des Religions et des Cultures. Une grande partie de la communauté cambodgienne de France réside à Bussy-Saint-Georges. 
+**Création d’un mémorial en hommage aux victimes du génocide et des crimes de masses au Cambodge**  
+Un monument dédié aux victimes du génocide et des crimes de masses au Cambodge sera élevé dans la commune de Bussy-Saint-Georges en Seine-et-Marne, dans le prolongement de l’Esplanade des Religions et des Cultures. Une grande partie de la communauté cambodgienne de France réside à Bussy-Saint-Georges. 
 
 ![image d'illustration](/images/presentation/3.jpg)
 
