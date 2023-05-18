@@ -1,5 +1,5 @@
 ---
-title: Présentation du projet FRAGMENTS #KH50
+title: Le projet FRAGMENTS #KH50
 ---
 
 ![Hero image](/images/banniere.jpg)
