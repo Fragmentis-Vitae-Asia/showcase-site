@@ -15,9 +15,9 @@
 }
 
 .hero {
-    height: 350px;
+    height: 250px;
     width: 100%;
-    margin-bottom: 32px;
+    margin-bottom: 16px;
     padding: 16px;
     background-image: url(/images/hero.jpg);
     background-size: cover;
@@ -37,7 +37,7 @@
 
 @media (max-width: 600px) {
     .hero {
-        height: 330px;
+        height: 300px;
         margin-bottom: 16px;
 
         flex-direction: column;
