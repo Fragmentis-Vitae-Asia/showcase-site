@@ -8,6 +8,9 @@ menu:
     - name: Présentation
       url: /presentation/
       weight: 10
+    - name: Témoignages
+      url: /temoignages/
+      weight: 15
     - name: Porteurs du projet
       url: /porteurs-projet/
       weight: 20
