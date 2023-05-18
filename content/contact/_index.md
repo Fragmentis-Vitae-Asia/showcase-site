@@ -2,7 +2,7 @@
 title: Contact
 ---
 
-![Hero image](/images/hero.jpg)
+![Hero image](/images/banniere.jpg)
 
 <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));">
   <div>

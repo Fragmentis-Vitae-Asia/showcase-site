@@ -2,7 +2,7 @@
 title: Présentation projet FRAGMENTS KH50
 ---
 
-![Hero image](/images/hero.jpg)
+![Hero image](/images/banniere.jpg)
 
 ## Présentation
 
