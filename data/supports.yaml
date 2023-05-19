@@ -1,10 +1,8 @@
 personnalities:
   - section1:
     list:
-      - "**Frédéric Dabi**, _directeur-général de l’institut de sondage IFOP_"
-      - "**Bernard Delorme**, _président de la Chambre des notaires du Grand-Anjou_"
+      - "**Hadrien Ghomi**, _député de Seine-et-Marne, vice-président du Groupe d’amitié France-Cambodge à l’Assemblée nationale_"      
       - "**Yann Dubosc**, _maire de Bussy-Saint-Georges, conseiller départemental de Seine-et-Marne, président de l’établissement public d’aménagement de Marne la Vallée (EpaMarne)_"
-      - "**Hadrien Ghomi**, _député de Seine-et-Marne, vice-président du Groupe d’amitié France-Cambodge à l’Assemblée nationale_"
       - "**Mathieu Viskovic**, _maire de Noisiel (Seine-et-Marne)_"
       - "**Nathalie Tortrat**, _maire de Gouvernes (Seine-et-Marne) et conseillère régionale d’Ile-de-France_"
       - "**Olivier Colaisseau**, _maire de Chanteloup-en-Brie (Seine-et-Marne)_"
@@ -17,14 +15,16 @@ personnalities:
 
   - section2:
     list:
+      - "**Bernard Delorme**, _président de la Chambre des notaires du Grand-Anjou_"
       - "**Valéry Vuong**, _vice-président du Conseil représentatif des associations asiatiques de France (Craaf)_"
       - "**Visal Meas**, _président de l'Association culturelle franco-khmère de Paris (ACFK) - école khmère de Paris_  "
+      - "**Sivano Srey**, _président de l'association Selepak Khmer_
       - "**Thomas Cai**, _président de l’AJCF, association des jeunes Chinois de France_"
  
-      
 
   - section3:
     list:
+      - "**Frédéric Dabi**, _directeur-général de l’institut de sondage IFOP_"
       - "**Aurélia Alessandra**, _principale du collège Jacques-Yves Cousteau de Bussy-Saint-Georges (Seine-et-Marne)_"
       - "**Chouvary Khun**, _pharmacienne_"
       - "**Hak Ngy Khun**, _pharmacien_"
