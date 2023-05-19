@@ -28,8 +28,8 @@ Des discussions sont en cours pour son Haut Patronage, pour la bonne réalisatio
 
 Le projet **FRAGMENTS #KH50** a trois finalités :
 
-**1-Rendre hommage aux victimes**
-**Création d’un mémorial en hommage aux victimes du génocide et des crimes de masses au Cambodge**  
+**1-Création d'un monument pour rendre hommage aux victimes du génocide et des crimes de masses au Cambodge**.
+
 Un monument dédié aux victimes du génocide et des crimes de masses au Cambodge sera élevé dans la commune de Bussy-Saint-Georges en Seine-et-Marne, dans le prolongement de l’Esplanade des Religions et des Cultures. Une grande partie de la communauté cambodgienne de France réside à Bussy-Saint-Georges. 
 
 ![image d'illustration](/images/presentation/3.jpg)
@@ -49,6 +49,7 @@ Le film retracera le parcours des familles et leur issue à travers le portrait 
 ![image d'illustration](/images/presentation/5.jpg)
 
 **La mise en place d’une plateforme en ligne pour recueillir et consulter les témoignages des rescapés et réfugiés**.
+
 La plateforme sera un lieu digital en web3 qui accueillera la version NFT dématérialisée du monument. Les familles pourront aussi découvrir la genèse du projet et un métavers où différents parcours des familles via différents pays permettra de comprendre quels ont été les chemins que les familles ont pris pour arriver à leur terre d’accueil finale. Ces fragments de témoignages et d’histoire seront reliés au monument et permettront aux familles d’interagir, de pouvoir reconstituer les fragments de vie et de leurs histoires familiales.
 
 **COMPRENDRE, COMMÉMORER, TRANSMETTRE**
@@ -56,6 +57,7 @@ La plateforme sera un lieu digital en web3 qui accueillera la version NFT démat
 ![image d'illustration](/images/presentation/6.jpg)
 
 **3-Exprimer la reconnaissance et de sentiment d’appartenance des descendants de réfugiés cambodgiens envers la France**.
+
 En fuyant ou évitant le pire, de nombreux cambodgiens ont trouvé refuge en France offrant à leur descendance une vie plus propice à l’avenir. 
 Le projet **FRAGMENTS #KH50** organisera plusieurs rassemblements qui seront autant d’occasions pour les franco-khmers d’exprimer leur sentiment de fierté et d’appartenance à la France. 
 
@@ -64,6 +66,7 @@ Le projet **FRAGMENTS #KH50** organisera plusieurs rassemblements qui seront aut
 ## Comment puis-je aider ?
 
 **Adhérer à l’association FRAGMENTIS VITAE ASIA, c’est aider à donner naissance au projet FRAGMENTS #KH50 !**
+
 L’association à but non lucratif a besoin du soutien d’adhérents pour que ses actions voient le jour. L’adhésion permet de s’inscrire pleinement dans la démarche de l’association. Elle permet d’intégrer les différents pôles, de participer aux événements proposés par l’association et surtout de participer à un projet culturel et mémoriel d’une envergure inédite.
 
 Chaque adhésion compte, merci pour votre soutien !
