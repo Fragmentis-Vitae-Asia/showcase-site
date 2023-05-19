@@ -34,7 +34,8 @@ Un monument dédié aux victimes du génocide et des crimes de masses au Cambodg
 
 ![image d'illustration](/images/presentation/3.jpg)
 
-**2-Accompagner la jeune génération et celle à venir vers leur quête de soi**
+**2-Accompagner la jeune génération et celle à venir vers leur quête de soi**.
+
 Par pudeur et instinct de protection, les aînés qui ont connu la funeste période entre avril 1975 et janvier 1979, partagent peu leur parcours. 
 Pourtant, les plus petites anecdotes de nos parents et aînés, comme les grands moments de leur vie, expliquent le fondement de leur existence en tant d’individu. Par extension, leurs histoires influent sur celle la deuxième génération, puisque les enfants héritent d’une manière ou d’une autre de leurs parents. 
 
