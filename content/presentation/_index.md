@@ -22,7 +22,7 @@ L’objectif principal du projet **FRAGMENTS #KH50** est de **réunir les fragme
 Nous sommes honorés d’avoir pu présenter le projet à la **Famille royale NORODOM (រាជវង្សនរោត្តម)**. 
 Des discussions sont en cours pour son Haut Patronage, pour la bonne réalisation de ce projet, pour les générations Khmers futures et pour le développement culturel et l’histoire qui lie nos deux pays de cœur que sont le Cambodge et la France. 
 
-**Le projet sera suivi par un comité scientifique composé de chercheurs travaillant sur les sujets connexes à la mémoire et aux migrations. FRAGMENTS #KH50 est soutenu par le réseau de recherche Migrations de l'Asie de l'Est et du Sud-Est en France (MAF).**
+_Le projet sera suivi par un comité scientifique composé de chercheurs travaillant sur les sujets connexes à la mémoire et aux migrations. FRAGMENTS #KH50 est soutenu par le réseau de recherche Migrations de l'Asie de l'Est et du Sud-Est en France (MAF)_.
 
 ## Pourquoi ce projet ?
 
