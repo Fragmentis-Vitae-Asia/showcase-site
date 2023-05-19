@@ -50,12 +50,13 @@ Le film retracera le parcours des familles et leur issue à travers le portrait 
 **La mise en place d’une plateforme en ligne pour recueillir et consulter les témoignages des rescapés et réfugiés**.
 La plateforme sera un lieu digital en web3 qui accueillera la version NFT dématérialisée du monument. Les familles pourront aussi découvrir la genèse du projet et un métavers où différents parcours des familles via différents pays permettra de comprendre quels ont été les chemins que les familles ont pris pour arriver à leur terre d’accueil finale. Ces fragments de témoignages et d’histoire seront reliés au monument et permettront aux familles d’interagir, de pouvoir reconstituer les fragments de vie et de leurs histoires familiales.
 
+**COMPRENDRE, COMMÉMORER, TRANSMETTRE**
+
 ![image d'illustration](/images/presentation/6.jpg)
 
 **3-Exprimer la reconnaissance et de sentiment d’appartenance des descendants de réfugiés cambodgiens envers la France**.
 En fuyant ou évitant le pire, de nombreux cambodgiens ont trouvé refuge en France offrant à leur descendance une vie plus propice à l’avenir. 
 Le projet **FRAGMENTS #KH50** organisera plusieurs rassemblements qui seront autant d’occasions pour les franco-khmers d’exprimer leur sentiment de fierté et d’appartenance à la France. 
-
 
 ![image d'illustration](/images/presentation/7.jpg)
 
