@@ -1,5 +1,5 @@
 ---
-title: Les porteurs et porteuses du projet
+title: Qui portent le projet ?
 ---
 ![Hero image](/images/banniere.jpg)
 
