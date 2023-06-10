@@ -6,21 +6,22 @@ title: Le projet FRAGMENTS #KH50
 
 ## Présentation
 
-Porté par l’association Fragmentis Vitae Asia, le projet FRAGMENTS #KH50 vise à réunir les **fragments**  du peuple cambodgien autour de projets fédérateurs 5O ans après le début du génocide et des crimes de masse perpétrés par les Khmers rouges. 
+Porté par l’association Fragmentis Vitae Asia, le projet FRAGMENTS #KH50 vise à réunir les **fragments**  d'histoires personnelles de familles qui ont dû fuir le Cambodge autour de projets fédérateurs 5O ans après le début du génocide et des crimes de masse perpétrés par le régime de Pol Pot. 
 
 
-Au gré de l’histoire du Cambodge, la population cambodgienne s’est fragmentée pour fuir la guerre civile entre 1970-75, puis le régime sous Pol Pot entre le 17 avril 1975 et le 7 janvier 1979. 
+Au gré de l’histoire, le Cambodge a vu sa population se fragmenter pour fuir la guerre civile entre 1970-75, puis le régime de l'Angkar sous Pol Pot entre le 17 avril 1975 et le 7 janvier 1979. 
 Aujourd’hui encore, seules des bribes de vies restent, conséquences d’un exil forcé et de la disparition d’environ deux millions de parents, grands-parents, frères, sœurs, oncles, tantes, neveux, nièces, cousins, cousines.
 
 ![image d'illustration](/images/presentation/1.jpg)
 
-Amputés des membres de leur famille, les survivants restent meurtris par la disparition de leurs proches. Muet de douleur, la transmission auprès de la deuxième génération et des suivantes ne se fait pas ou filtre peu. 
+Amputés des membres de leur famille, les survivants restent meurtris par la disparition de leurs proches. La douleur se vivant en silence, la transmission auprès de la deuxième génération et des suivantes ne se fait pas ou filtre peu. 
 L’objectif principal du projet **FRAGMENTS #KH50** est de **réunir les fragments d’histoires personnelles, pour reconstituer une mémoire collective**.
 
 ![image d'illustration](/images/presentation/2.jpg)
 
-Nous sommes honorés d’avoir pu présenter le projet à la **Famille royale NORODOM (រាជវង្សនរោត្តម)**. 
-Des discussions sont en cours pour son Haut Patronage, pour la bonne réalisation de ce projet, pour les générations Khmers futures et pour le développement culturel et l’histoire qui lie nos deux pays de cœur que sont le Cambodge et la France. 
+La réussite du projet permettra d’apporter des réponses à toute la génération des enfants nés au moment de la fuite et aux générations d’après. 
+
+Éclairer les futures générations khmères, sino-khmères, franco-khmères et toute personne ayant un lien avec le Cambodge  renforcera le développement culturel et mémoriel de nos deux pays de cœur que sont le Cambodge et la France. 
 
 _Le projet sera suivi par un comité scientifique composé de chercheurs travaillant sur les sujets connexes à la mémoire et aux migrations. FRAGMENTS #KH50 est soutenu par le réseau de recherche Migrations de l'Asie de l'Est et du Sud-Est en France (MAF)_.
 
@@ -30,7 +31,7 @@ Le projet **FRAGMENTS #KH50** a trois finalités :
 
 **1-Création d'un monument pour rendre hommage aux victimes du génocide et des crimes de masses au Cambodge**.
 
-Un monument dédié aux victimes du génocide et des crimes de masses au Cambodge sera élevé dans la commune de Bussy-Saint-Georges en Seine-et-Marne, dans le prolongement de l’Esplanade des Religions et des Cultures. Une grande partie de la communauté cambodgienne de France réside à Bussy-Saint-Georges. 
+Un monument dédié aux victimes du génocide et des crimes de masses au Cambodge sera élevé dans la commune de Bussy-Saint-Georges en Seine-et-Marne, dans le prolongement de l’Esplanade des Religions et des Cultures. Une grande partie de la population d'origine cambodgienne en France réside à Bussy-Saint-Georges. 
 
 ![image d'illustration](/images/presentation/3.jpg)
 
@@ -44,7 +45,7 @@ Pourtant, les plus petites anecdotes de nos parents et aînés, comme les grands
 Afin de fédérer les générations et libérer les paroles, le **projet FRAGMENTS #KH50** prévoit :
 
 **La production d’un film documentaire retraçant l’exode de rescapés.**
-Le film retracera le parcours des familles et leur issue à travers le portrait intergénérationnel de tout un peuple. À partir du regard des auteurs partis sur place pour suivre le trajet de leurs parents. Au gré des rencontres qui parsèment leurs routes, ce sera l’occasion de récolter des témoignages en forme d’héritage. Chaque témoignage constitue ainsi un fragment de notre histoire. Le film documentaire recueillera aussi des success stories, des témoignages de générations Khmers ayant réussi à se reconstruire et construire sur leur terre d’accueil et à l’international.
+Le film retracera le parcours des familles et leur issue à travers le portrait intergénérationnel de tout un peuple. À partir du regard des auteurs partis sur place pour suivre le trajet de leurs parents. Au gré des rencontres qui parsèment leurs routes, ce sera l’occasion de récolter des témoignages en forme d’héritage. Chaque témoignage constitue ainsi un fragment de notre histoire. Le film documentaire recueillera aussi des success stories, des témoignages de générations  ayant réussi à se reconstruire et construire sur leur terre d’accueil et à l’international.
 
 ![image d'illustration](/images/presentation/5.jpg)
 
@@ -56,10 +57,10 @@ La plateforme sera un lieu digital en web3 qui accueillera la version NFT démat
 
 ![image d'illustration](/images/presentation/6.jpg)
 
-**3-Exprimer la reconnaissance et de sentiment d’appartenance des descendants de réfugiés cambodgiens envers la France**.
+**3-Exprimer la reconnaissance et de sentiment d’appartenance des descendants de réfugiés venant du Cambodge envers la France**.
 
-En fuyant ou évitant le pire, de nombreux cambodgiens ont trouvé refuge en France offrant à leur descendance une vie plus propice à l’avenir. 
-Le projet **FRAGMENTS #KH50** organisera plusieurs rassemblements qui seront autant d’occasions pour les franco-khmers d’exprimer leur sentiment de fierté et d’appartenance à la France. 
+En fuyant ou évitant le pire, de nombreuse familles venant du Cambodge ont trouvé refuge en France offrant à leur descendance une vie plus propice à l’avenir. 
+Le projet **FRAGMENTS #KH50** organisera plusieurs rassemblements qui seront autant d’occasions pour les nouvelles génération d’exprimer leur sentiment de fierté et d’appartenance à la France. 
 
 ![image d'illustration](/images/presentation/7.jpg)
 
