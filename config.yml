@@ -11,7 +11,7 @@ menu:
     - name: Témoignages
       url: /temoignages/
       weight: 15
-    - name: Porteurs du projet
+    - name: Qui porte le projet ? 
       url: /porteurs-projet/
       weight: 20
     - name: Soutiens
@@ -40,7 +40,7 @@ menu:
 
 params:
   author: loiklak
-  description: "Le projet Fragments #KH50 est principalement initié par des descendants de Cambodgiens et porté par l’association Loi 1901, Fragmentis Vitae Asia. 
+  description: "Le projet Fragments #KH50 est principalement initié par des descendants de réfugiés ayant fui le Cambodge et porté par l’association Loi 1901, Fragmentis Vitae Asia. 
 
 Du fait de l’exil, de la guerre civile et de la période génocidaire, chacun ne possède que quelques fragments de l’histoire de sa famille.
 
