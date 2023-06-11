@@ -11,7 +11,7 @@ menu:
     - name: Témoignages
       url: /temoignages/
       weight: 15
-    - name: Qui portent le projet ? 
+    - name: Qui porte le projet ? 
       url: /porteurs-projet/
       weight: 20
     - name: Soutiens
