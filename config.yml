@@ -8,7 +8,7 @@ menu:
     - name: Présentation
       url: /presentation/
       weight: 10
-    - name: Témoignages
+    - name: Témoigner
       url: /temoignages/
       weight: 15
     - name: Qui porte le projet ? 

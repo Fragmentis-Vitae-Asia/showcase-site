@@ -15,4 +15,5 @@ title: Soutiens et partenariats
 
 {{% support-personnalities %}}
 
+{{% cta %}}
 
