@@ -1,6 +1,6 @@
-- name: Bussy-Saint-Georges
+- name: Ville de Bussy-Saint-Georges
   picture: "/images/companies/bussy.png"
-- name: Noisiel
+- name: Ville de Noisiel
   picture: "/images/companies/noisiel.png"
 - name: GFC Pharma
   picture: "/images/companies/gfc.png"
@@ -8,15 +8,15 @@
   picture: "/images/companies/ekp.png"
 - name: Selepak
   picture: "/images/companies/selepak.png"
-- name: BCK
+- name: Ballet classique khmer
   picture: "/images/companies/bck.png"
-- name: MAF
+- name: Réseau de recherche MAF
   picture: "/images/companies/maf.png"
-- name: AVB
+- name: Association des Vietnamiens de Bussy 
   picture: "/images/companies/avb.png"
-- name: AJCF
+- name: Association des Jeunes chinois de France 
   picture: "/images/companies/ajcf.png"
-- name: Collège Cousteau
+- name: Collège Jacques-Yves Cousteau (Bussy-Saint-Georges)
   picture: "/images/companies/college-cousteau.jpg"
 - name: Majesté Diamants
   picture: "/images/companies/majeste-val-europe.jpg"
