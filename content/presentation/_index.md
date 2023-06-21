@@ -1,21 +1,20 @@
 ---
-title: Le projet FRAGMENTS #KH50
+title: Le projet FRAGMENTS KH50
 ---
 
 ![Hero image](/images/banniere.jpg)
 
 ## Présentation
 
-Porté par l’association Fragmentis Vitae Asia, le projet FRAGMENTS #KH50 vise à réunir les **fragments**  d'histoires personnelles de familles qui ont dû fuir le Cambodge autour de projets fédérateurs 5O ans après le début du génocide et des crimes de masse perpétrés par le régime de Pol Pot. 
+Porté par l’association Fragmentis Vitae Asia, le projet FRAGMENTS #KH50 vise à réunir les **fragments**  d'histoires personnelles de familles qui ont dû fuir le Cambodge autour de projets fédérateurs 50 ans après le début du génocide et des crimes de masse perpétrés par le régime de Pol Pot. 
 
 
 Au gré de l’histoire, le Cambodge a vu sa population se fragmenter pour fuir la guerre civile entre 1970-75, puis le régime de l'Angkar sous Pol Pot entre le 17 avril 1975 et le 7 janvier 1979. 
-Aujourd’hui encore, seules des bribes de vies restent, conséquences d’un exil forcé et de la disparition d’environ deux millions de parents, grands-parents, frères, sœurs, oncles, tantes, neveux, nièces, cousins, cousines.
+Aujourd’hui encore, seules des bribes de vies restent, conséquences d’un exil forcé et de la disparition d’environ deux millions de parents, grands-parents et proches
 
 ![image d'illustration](/images/presentation/1.jpg)
 
 Amputés des membres de leur famille, les survivants restent meurtris par la disparition de leurs proches. La douleur se vivant en silence, la transmission auprès de la deuxième génération et des suivantes ne se fait pas ou filtre peu. 
-L’objectif principal du projet **FRAGMENTS #KH50** est de **réunir les fragments d’histoires personnelles, pour reconstituer une mémoire collective**.
 
 ![image d'illustration](/images/presentation/2.jpg)
 
