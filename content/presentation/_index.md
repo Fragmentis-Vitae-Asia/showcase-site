@@ -10,7 +10,8 @@ Porté par l’association Fragmentis Vitae Asia, le projet FRAGMENTS #KH50 vise
 
 
 Au gré de l’histoire, le Cambodge a vu sa population se fragmenter pour fuir la guerre civile entre 1970-75, puis le régime de l'Angkar sous Pol Pot entre le 17 avril 1975 et le 7 janvier 1979. 
-Aujourd’hui encore, seules des bribes de vies restent, conséquences d’un exil forcé et de la disparition d’environ deux millions de parents, grands-parents et proches
+
+Aujourd’hui encore, seules des bribes de vies restent, conséquences d’un exil forcé et de la disparition d’environ deux millions de parents, grands-parents et proches.
 
 ![image d'illustration](/images/presentation/1.jpg)
 
