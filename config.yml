@@ -20,6 +20,9 @@ menu:
     - name: Contact
       url: /contact/
       weight: 40
+    - name: Presse
+      url: /espace-presse/
+      weight: 50
 
 # - name: Contact
 #   url: /contact/
