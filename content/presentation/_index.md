@@ -70,8 +70,6 @@ Le projet **FRAGMENTS #KH50** organisera plusieurs rassemblements qui seront aut
 
 L’association à but non lucratif a besoin du soutien d’adhérents pour que ses actions voient le jour. L’adhésion permet de s’inscrire pleinement dans la démarche de l’association. Elle permet d’intégrer les différents pôles, de participer aux événements proposés par l’association et surtout de participer à un projet culturel et mémoriel d’une envergure inédite.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kQKkURWtLok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>{{% cta %}}
-
 Chaque adhésion compte, merci pour votre soutien !
 
 [**Adhérer à l’association 🤝**](https://www.helloasso.com/associations/fragmentis-vitae/adhesions/adhesion)
