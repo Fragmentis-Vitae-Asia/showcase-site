@@ -11,6 +11,9 @@
   --height: 100px;
   grid-template-rows: var(--height) auto;
   place-items: center;
+  color: inherit;
+  text-decoration: inherit;
+  box-shadow: none !important;
 }
 
 .company img {

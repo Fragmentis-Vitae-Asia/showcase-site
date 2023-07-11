@@ -1,4 +1,4 @@
-<div class="company">
+<a {{ with .link }}href="{{ . | absURL }}"{{ end }} class="company">
   <img src="{{ .picture | absURL }}" alt="{{ .name }}" />
   {{ .name | markdownify }}
-</div>
+</a>

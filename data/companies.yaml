@@ -4,6 +4,7 @@
   picture: "/images/companies/noisiel.png"
 - name: GFC Pharma
   picture: "/images/companies/gfc.png"
+  link: "https://gfc.pharminfo.fr/"
 - name: Ecole Khmère de Paris
   picture: "/images/companies/ekp.png"
 - name: Selepak Khmer
@@ -12,9 +13,9 @@
   picture: "/images/companies/bck.png"
 - name: Réseau de recherche MAF
   picture: "/images/companies/maf.png"
-- name: Association des Vietnamiens de Bussy 
+- name: Association des Vietnamiens de Bussy
   picture: "/images/companies/avb.png"
-- name: Association des Jeunes chinois de France 
+- name: Association des Jeunes chinois de France
   picture: "/images/companies/ajcf.png"
 - name: Collège Cousteau (Bussy-Saint-Georges)
   picture: "/images/companies/college-cousteau.jpg"
