@@ -2,6 +2,8 @@
   picture: "/images/companies/bussy.png"
 - name: Ville de Noisiel
   picture: "/images/companies/noisiel.png"
+- name: Ville de Lognes
+  picture: "https://drive.google.com/uc?id=1gY3WGJiJdgugYYribTu8mvgH5m_y9Z2e"  
 - name: GFC Pharma
   picture: "/images/companies/gfc.png"
   link: "https://gfc.pharminfo.fr/"
