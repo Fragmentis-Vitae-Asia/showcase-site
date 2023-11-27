@@ -14,10 +14,12 @@ Au programme :
 - Projections
 - expo-vente, animations, tombola
 
-  ![https://drive.google.com/uc?id=11MyWacYSQOuo3D5ITJM4Rf4qjyVNZfmL)
+  Entrée gratuite
+
+Programme complet : 
+"https://drive.google.com/file/d/1A_e3FbrViI80jq6vfFpqxAA1Th4yKwTp/view?usp=share_link"
 
   
-
 ## Présentation
 
 Porté par l’association Fragmentis Vitae Asia, le projet FRAGMENTS #KH50 vise à réunir les **fragments**  d'histoires personnelles de familles qui ont dû fuir le Cambodge autour de projets fédérateurs 50 ans après le début du génocide et des crimes de masse perpétrés par le régime de Pol Pot. 
