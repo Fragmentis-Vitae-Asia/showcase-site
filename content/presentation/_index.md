@@ -13,8 +13,8 @@ Au programme :
 - Table ronde sur la transmission de la mémoire 
 - Projections
 - expo-vente, animations, tombola
-  
- "https://drive.google.com/uc?id=11MyWacYSQOuo3D5ITJM4Rf4qjyVNZfmL"
+
+  picture: "https://drive.google.com/uc?id=11MyWacYSQOuo3D5ITJM4Rf4qjyVNZfmL"
 
   
 
