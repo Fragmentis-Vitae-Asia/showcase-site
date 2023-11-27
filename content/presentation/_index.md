@@ -4,6 +4,20 @@ title: Le projet FRAGMENTS KH50
 
 ![Hero image](/images/banniere.jpg)
 
+## Événement
+
+Le premier Meetup de Fragments #KH50 se tiendra samedi 2 décembre 2023 de 14 à 19 heures à l'hôtel Mercure de Bussy-Saint-Georges (77). 
+
+Au programme : 
+- Présentation du Mémorial #KH50
+- Table ronde sur la transmission de la mémoire 
+- Projections
+- expo-vente, animations, tombola
+  
+ "https://drive.google.com/uc?id=11MyWacYSQOuo3D5ITJM4Rf4qjyVNZfmL"
+
+  
+
 ## Présentation
 
 Porté par l’association Fragmentis Vitae Asia, le projet FRAGMENTS #KH50 vise à réunir les **fragments**  d'histoires personnelles de familles qui ont dû fuir le Cambodge autour de projets fédérateurs 50 ans après le début du génocide et des crimes de masse perpétrés par le régime de Pol Pot. 
