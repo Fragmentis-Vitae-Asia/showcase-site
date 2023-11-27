@@ -14,7 +14,7 @@ Au programme :
 - Projections
 - expo-vente, animations, tombola
 
-  picture: "https://drive.google.com/uc?id=11MyWacYSQOuo3D5ITJM4Rf4qjyVNZfmL"
+  ![https://drive.google.com/uc?id=11MyWacYSQOuo3D5ITJM4Rf4qjyVNZfmL)
 
   
 
