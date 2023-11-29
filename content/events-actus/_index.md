@@ -4,8 +4,11 @@ title: Évènements et actualités
 
 ![Hero image](/images/banniere.jpg)
 
-# Page en cours de construction
+# Meet Up Fragments #KH50 - Samedi 2 décembre 2023 - Hôtel Mercure Bussy-Saint-Georges
 
-Revenez vite pour découvrir nos prochains évènements et actualités !
+L'association Fragmentis Vitae Asia propose son premier événement 
+
+https://drive.google.com/file/d/1A_e3FbrViI80jq6vfFpqxAA1Th4yKwTp/view?usp=share_link
+
 
 {{% cta %}}
