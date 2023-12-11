@@ -8,6 +8,9 @@ menu:
     - name: Présentation
       url: /presentation/
       weight: 10
+    - name: Events / Actus
+      url: /events-actus/
+      weight: 13
     - name: Témoigner
       url: /temoignages/
       weight: 15
@@ -23,9 +26,6 @@ menu:
     - name: Presse
       url: /espace-presse/
       weight: 50
-    - name: Events / Actus
-      url: /events-actus/
-      weight: 60
 
 # - name: Contact
 #   url: /contact/
