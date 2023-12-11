@@ -1,0 +1,5 @@
+<ul>
+{{ range $.Site.Data.contributors }}
+  {{ partial "contributors.html" . }}
+{{ end }}
+</ul>

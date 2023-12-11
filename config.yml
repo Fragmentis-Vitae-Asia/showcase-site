@@ -26,6 +26,9 @@ menu:
     - name: Presse
       url: /espace-presse/
       weight: 50
+    - name: Contributeurs
+      url: /contributeurs/
+      weight: 60
 
 # - name: Contact
 #   url: /contact/
