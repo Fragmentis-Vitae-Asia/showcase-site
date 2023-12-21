@@ -4,20 +4,6 @@ title: Le projet FRAGMENTS KH50
 
 ![Hero image](/images/banniere.jpg)
 
-## Événement
-
-Le premier Meetup de Fragments #KH50 se tiendra samedi 2 décembre 2023 de 14 à 19 heures à l'hôtel Mercure de Bussy-Saint-Georges (77). 
-
-Au programme : 
-- Présentation du Mémorial #KH50
-- Table ronde sur la transmission de la mémoire 
-- Projections
-- expo-vente, animations, tombola
-
-  Entrée gratuite
-
-Programme complet : 
-"https://drive.google.com/file/d/1A_e3FbrViI80jq6vfFpqxAA1Th4yKwTp/view?usp=share_link"
 
   
 ## Présentation
