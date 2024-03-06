@@ -31,11 +31,11 @@ _Le projet sera suivi par un comité scientifique composé de chercheurs travail
 
 Le projet **FRAGMENTS #KH50** a trois finalités :
 
+
 **1-Création d'un monument pour rendre hommage aux victimes du génocide et des crimes de masses au Cambodge**.
 
-Un monument dédié aux victimes du génocide et des crimes de masses au Cambodge sera élevé dans la commune de Bussy-Saint-Georges en Seine-et-Marne, dans le prolongement de l’Esplanade des Religions et des Cultures. Une grande partie de la population d'origine cambodgienne en France réside à Bussy-Saint-Georges. 
+Un monument dédié aux victimes du génocide et des crimes de masses au Cambodge sera élevé dans une commune en Seine-et-Marne où réside une importante population originaire du Cambodge. 
 
-![image d'illustration](/images/presentation/3.jpg)
 
 **2-Accompagner la jeune génération et celle à venir vers leur quête de soi**.
 
@@ -54,6 +54,8 @@ Le film retracera le parcours des familles et leur issue à travers le portrait 
 **La mise en place d’une plateforme en ligne pour recueillir et consulter les témoignages des rescapés et réfugiés**.
 
 La plateforme sera un lieu digital en web3 qui accueillera la version NFT dématérialisée du monument. Les familles pourront aussi découvrir la genèse du projet et un métavers où différents parcours des familles via différents pays permettra de comprendre quels ont été les chemins que les familles ont pris pour arriver à leur terre d’accueil finale. Ces fragments de témoignages et d’histoire seront reliés au monument et permettront aux familles d’interagir, de pouvoir reconstituer les fragments de vie et de leurs histoires familiales.
+
+![image d'illustration](/images/presentation/3.jpg)
 
 **COMPRENDRE, COMMÉMORER, TRANSMETTRE**
 
@@ -83,6 +85,8 @@ En plus d’adhérer à l’association, vous pouvez **adresser un don qui perme
 **Particuliers comme entreprises peuvent contribuer.**
 
 Des bénévoles œuvrent pour donner vie au projet ; mais votre aide financière permettra de concrétiser au mieux ces trois actions. **Le montant du don est libre**, chaque contribution nous aidera !
+
+**L’association Fragmentis Vitae Asia est reconnue d’intérêt général. Les dons sont déductibles de l’impôt sur le revenu à hauteur de 66% et de l’impôt sur les sociétés à hauteur de 60%.**
 
 
 [**Faire un don ❤️**](https://www.helloasso.com/associations/fragmentis-vitae/formulaires/1)
