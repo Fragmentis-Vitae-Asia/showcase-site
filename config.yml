@@ -8,6 +8,9 @@ menu:
     - name: Présentation
       url: /presentation/
       weight: 10
+    - name: Monument
+      url: /monument/
+      weight: 12
     - name: Events / Actus
       url: /events-actus/
       weight: 13
