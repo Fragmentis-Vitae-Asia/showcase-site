@@ -4,7 +4,7 @@ title: Évènements et actualités
 
 ![Hero image](/images/banniere.jpg)
 
-# Nouvel An khmer à Lognes au Kiosque citoyen - Samedi 27 avril 2024 - 11 esplanade des Droits de l'homme 77185 LOGNES
+# Nouvel An khmer à LOGNES au Kiosque citoyen - Samedi 27 avril 2024
 
  "https://drive.google.com/uc?id=1PKDr4M_kp7ZrsxqOVSZOoXprrfG6KD7s"  
 
