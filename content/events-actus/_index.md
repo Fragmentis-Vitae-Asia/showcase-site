@@ -6,6 +6,7 @@ title: Évènements et actualités
 
 # Nouvel An khmer à Lognes au Kiosque citoyen - Samedi 27 avril 2024 - 11 esplanade des Droits de l'homme 77185 LOGNES
 
+"https://drive.google.com/uc?id=1PKDr4M_kp7ZrsxqOVSZOoXprrfG6KD7s" 
 
 Pour soutenir le projet Fragments #KH50 ,  Fragmentis Vitae Asia et Banh Mi Média vous donnent rendez-vous, samedi 27 avril de 12h30 à 19h30 à Lognes
 
