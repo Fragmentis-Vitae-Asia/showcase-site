@@ -1,9 +1,9 @@
+- name: Ville de Lognes
+  picture: "<a href="https://lh3.googleusercontent.com/drive-viewer/AKGpihaEX5lgz6t7BIOn8bVyI2WB-5cl00wwOhK_GYuOx0fdezOXEy14b68R-bhj1Y2BG6hxfg2ROPvFAC6KD-Hb79CMSH1-UWIkPso=s1600-rw-v1?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihaEX5lgz6t7BIOn8bVyI2WB-5cl00wwOhK_GYuOx0fdezOXEy14b68R-bhj1Y2BG6hxfg2ROPvFAC6KD-Hb79CMSH1-UWIkPso=s1600-rw-v1" /> </a>" 
+- name: Ville de Noisiel
+  picture: "/images/companies/noisiel.png" 
 - name: Ville de Bussy-Saint-Georges
   picture: "/images/companies/bussy.png"
-- name: Ville de Noisiel
-  picture: "/images/companies/noisiel.png"
-- name: Ville de Lognes
-  picture: "https://drive.google.com/uc?id=1gY3WGJiJdgugYYribTu8mvgH5m_y9Z2e"  
 - name: GFC Pharma
   picture: "/images/companies/gfc.png"
   link: "https://gfc.pharminfo.fr/"
