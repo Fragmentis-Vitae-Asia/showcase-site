@@ -32,7 +32,7 @@ _Le projet sera suivi par un comité scientifique composé de chercheurs travail
 Le projet **FRAGMENTS #KH50** a trois finalités :
 
 
-**1-Création d'un monument pour rendre hommage aux victimes du génocide et des crimes de masses au Cambodge**.
+**1-Eriger un monument pour rendre hommage aux victimes de l'extermination de population et des crimes de masses au Cambodge**.
 
 Un monument dédié aux victimes du génocide et des crimes de masses au Cambodge sera élevé dans une commune en Seine-et-Marne où réside une importante population originaire du Cambodge. 
 
@@ -61,7 +61,7 @@ La plateforme sera un lieu digital en web3 qui accueillera la version NFT démat
 
 ![image d'illustration](/images/presentation/6.jpg)
 
-**3-Exprimer la reconnaissance et de sentiment d’appartenance des descendants de réfugiés venant du Cambodge envers la France**.
+**3-Exprimer la reconnaissance et le sentiment d’appartenance des descendants de réfugiés venant du Cambodge envers la France**.
 
 En fuyant ou évitant le pire, de nombreuse familles venant du Cambodge ont trouvé refuge en France offrant à leur descendance une vie plus propice à l’avenir. 
 Le projet **FRAGMENTS #KH50** organisera plusieurs rassemblements qui seront autant d’occasions pour les nouvelles génération d’exprimer leur sentiment de fierté et d’appartenance à la France. 
