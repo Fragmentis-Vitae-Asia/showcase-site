@@ -1,19 +1,16 @@
 personnalities:
   - section1:
     list:
-    - name: SE David Luy, _Ambassadeur du Cambodge en France
-      picture: "https://lh3.googleusercontent.com/drive-viewer/AKGpihbOZVfXY6d37TXvgyTLcVEBXPP3lshwU2bshinLYnYNzqaUb7RL-Z3OW9I8dpdPrPtukGkCxox8gpT2ABMfhR-VuCOIMg8mnok=s1600-rw-v1"
+      - "**SE David Luy**, _Ambassadeur du Cambodge en France_"
       - "**Vincent Eblé**, _Sénateur de Seine-et-Marne, président du Groupe d’amitié France-Cambodge-Laos au Sénat_"
-      "https://lh3.googleusercontent.com/drive-viewer/AKGpihZpv7eSMcZbD0q5y71Q5sMRbOdpTNSClzpcp_Q-n7jDLiY3mnO7-OH872sJSv4Zieif6rIlGP41I7ct1lHxD-O6mrL9dIlSkg=s1600-rw-v1"
       - "**Hadrien Ghomi**, _député de Seine-et-Marne, vice-président du Groupe d’amitié France-Cambodge à l’Assemblée nationale_"
-      "https://lh3.googleusercontent.com/drive-viewer/AKGpihZRQA9v8FiU5wkl8YeuzIO0JxC8hcNKk0b9sFwgmKsVP4lX2HSyt0Y5G82b0o-kC9TOaWu4Mv9jDNOf9B_pHRLsxC1DTjBgTmU=s1600-rw-v1"
       - "**Nathalie Tortrat**, _maire de Gouvernes (Seine-et-Marne) et conseillère régionale d’Ile-de-France_"
       - "**Yann Dubosc**, _maire de Bussy-Saint-Georges, conseiller départemental de Seine-et-Marne, président de l’établissement public d’aménagement de Marne la Vallée (EpaMarne)_"
       - "**Emma Abreu**, _conseillère départementale de Seine-et-Marne_"
       - "**Mathieu Viskovic**, _maire de Noisiel (Seine-et-Marne)_"
       - "**Nicolas Delaunay**, _maire de Lognes (Seine-et-Marne)_"
       - "**Michel Gérès**, _maire de Croissy-Beaubourg (Seine-et-Marne)_"
-      - "**Olivier Colaisseau**, _maire de Chanteloup-en-Brie (Seine-et-Marne)_"     
+      - "**Olivier Colaisseau**, _maire de Chanteloup-en-Brie (Seine-et-Marne)_"
       - "**Sithal Tieng**, _premier adjoint au maire de Noisiel (Seine-et-Marne)_"
       - "**Nathalie Karajabarlian**, _adjointe au maire de Courtry (Seine-et-Marne)_"
       - "**Mickaël Gaillard**, _adjoint au maire de Croissy-Beaubourg (Seine-et-Marne)_"
@@ -25,7 +22,6 @@ personnalities:
 
   - section2:
     list:
-  
       - "**Bernard Delorme**, _ancien président de la Chambre des notaires du Grand-Anjou_"
       - "**Valéry Vuong**, _vice-président du Conseil représentatif des associations asiatiques de France (Craaf)_"
       - "**Soc Lam**, _avocat, président de l'association des avocats d'origine chinoise_"
@@ -43,7 +39,6 @@ personnalities:
       - "**Simeng Wang**, _sociologue, chargée de recherche au CNRS et coordinatrice du réseau de recherche Migration d'Asie de l'Est et du Sud-Est en France (MAF)_"
       - "**Kai Yan Ly**, _membre du réseau de recherche Migration d'Asie de l'Est et du Sud-Est en France (MAF)_"
       - "**Emmanuel Santarromana**, _membre du réseau de recherche Migration d'Asie de l'Est et du Sud-Est en France (MAF)_"
-      
 
   - section4:
     list:
@@ -62,7 +57,3 @@ personnalities:
       - "**Jérémy Yantrak**, _artiste-tatoueur_"
       - "**Alexia Chaing**, _artiste-tatoueuse_"
       - "**Ramya Chuong**, _artiste-plasticien_"
-      
-      
-      
-      
