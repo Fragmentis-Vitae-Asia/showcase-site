@@ -5,33 +5,33 @@ theme: charlolamode
 
 menu:
   main:
-    - name: Présentation
+    - name: Le projet
       url: /presentation/
       weight: 10
-    - name: Monument
+    - name: "Mémorial #KH50"
       url: /monument/
-      weight: 12
-    - name: Events / Actus
-      url: /events-actus/
-      weight: 13
-    - name: Témoigner
-      url: /temoignages/
-      weight: 15
-    - name: Qui porte le projet ? 
-      url: /porteurs-projet/
       weight: 20
+    - name: Témoignez
+      url: /temoignages/
+      weight: 30
+    - name: Porteurs du projet
+      url: /porteurs-projet/
+      weight: 40
     - name: Soutiens
       url: /soutiens/
-      weight: 30
-    - name: Contact
-      url: /contact/
-      weight: 40
-    - name: Presse
-      url: /espace-presse/
       weight: 50
-    - name: Contributeurs
+    - name: 'Contribuez au projet'
       url: /contributeurs/
       weight: 60
+    - name: Actus
+      url: /events-actus/
+      weight: 70
+    - name: Presse
+      url: /espace-presse/
+      weight: 80
+    - name: Contact
+      url: /contact/
+      weight: 90
 
 # - name: Contact
 #   url: /contact/
