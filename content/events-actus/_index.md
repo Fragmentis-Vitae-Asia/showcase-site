@@ -6,4 +6,5 @@ title: Évènements et actualités
 
 # Les dernières news
 
+[](/events-actus/7-septembre-2024-forum-associations)
 [](/events-actus/27-avril-nouvel-an)
