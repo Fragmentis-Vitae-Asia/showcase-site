@@ -1,5 +1,5 @@
 ---
-title: Nouvel An khmer à LOGNES au Kiosque citoyen - Samedi 27 avril 2024
+title: Samedi 27 avril 2024 - Nouvel An khmer à LOGNES au Kiosque citoyen
 description: "Pour soutenir le projet Fragments #KH50 ,  Fragmentis Vitae Asia et Banh Mi Média vous donnent rendez-vous, samedi 27 avril de 12h30 à 19h30 à Lognes"
 
 ---
