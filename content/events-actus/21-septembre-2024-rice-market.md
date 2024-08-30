@@ -13,7 +13,8 @@ Vous pourrez également tenter votre chance à notre tombola pour gagner de nomb
 *Au programme, il est prévu de la street food à gogo, des jeux pour toute la famille, et de la musique.*
 
 **Date :** Samedi 21 Septembre à partir de 12h à 22h.<br>
-**Adresse :** Boulevard Auguste Blanqui, Paris 13e.<br>
+**Adresse :** 1-51 Boulevard Auguste Blanqui, Paris 13e (emplacement du marché).<br>
+**Métro :** Place d’Italie / Corvisart
 **Participation :** Gratuite
 
 ![image d'illustration](/images/events/rice-market.jpg)
