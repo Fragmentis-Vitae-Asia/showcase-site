@@ -8,5 +8,5 @@ title: Évènements et actualités
 
 [](/events-actus/21-septembre-2024-rice-market)
 [](/events-actus/7-septembre-2024-forum-asso)
-[](/events-actus/7-septembre-2024-forum-asso)
+[](/events-actus/27-avril-nouvel-an)
 
