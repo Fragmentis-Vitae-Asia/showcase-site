@@ -1,6 +1,7 @@
 ---
 title: Jean
 description: "Jean est un artiste"
+image: /images/khco.jpg
 ---
 
 # Jean 

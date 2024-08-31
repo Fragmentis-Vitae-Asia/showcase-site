@@ -1,5 +1,6 @@
 ---
 title: Sun Lay
+image: /images/founders/sunlay_tan.jpeg
 ---
 
 # Sun Lay
