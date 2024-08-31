@@ -122,3 +122,5 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
+buildFuture: true
