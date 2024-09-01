@@ -2,6 +2,7 @@
 title: Lundi 26 août 2024 - Le mot du Président 
 description: "Le Président de l'association nous adresse un mot à l'occasion de son anniversaire."
 date: 2024-08-26
+image: /images/events/sunlay-anniversaire.jpg
 ---
 
 Chers amis d’ici, d’Asie ou d’ailleurs,<br>
