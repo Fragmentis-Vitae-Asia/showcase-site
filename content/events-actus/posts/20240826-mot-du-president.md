@@ -15,8 +15,11 @@ Quant à moi, j'ai choisi de naître un 26 août, date marquée par la libérati
 Alors que cette nouvelle année de ma vie commence, je suis déterminé à mener à bien nos projets, en particulier Fragments #KH50, pour reconstituer, préserver et transmettre la mémoire des familles du Cambodge et d'Asie du Sud Est, réfugiées en France.<br>
 Merci à vous tous pour votre soutien indéfectible.<br>
 <br>
-Vous pouvez contribuer à nos projets mémoriels en faisant un don : 
-[https://www.helloasso.com/associations/fragmentis-vitae/formulaires/1](https://www.helloasso.com/associations/fragmentis-vitae/formulaires/1) Le montant du don est déductible des impôts. 
+Vous pouvez contribuer à nos projets mémoriels en faisant un don :<br>
+[https://www.helloasso.com/associations/fragmentis-vitae/formulaires/1](https://www.helloasso.com/associations/fragmentis-vitae/formulaires/1)<br>
+Le montant du don est déductible des impôts.<br>
 www.fragmentis-vitae.org
+
+Sun-Lay Tan
 
 ![image d'illustration](/images/events/sunlay-anniversaire.jpg)
