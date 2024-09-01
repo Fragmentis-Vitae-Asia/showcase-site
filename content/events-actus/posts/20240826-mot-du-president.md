@@ -1,6 +1,6 @@
 ---
 title: Lundi 26 août 2024 - Le mot du Président 
-description: "Le Président de l'association nous confie son voeu à l'occasion de son anniversaire"
+description: "Le Président de l'association nous confie sa détermination à l'occasion de son anniversaire."
 date: 2024-08-26
 ---
 
