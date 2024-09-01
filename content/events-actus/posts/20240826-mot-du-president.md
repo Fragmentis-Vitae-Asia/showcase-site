@@ -18,7 +18,7 @@ Merci à vous tous pour votre soutien indéfectible.<br>
 Vous pouvez contribuer à nos projets mémoriels en faisant un don :<br>
 [https://www.helloasso.com/associations/fragmentis-vitae/formulaires/1](https://www.helloasso.com/associations/fragmentis-vitae/formulaires/1)<br>
 Le montant du don est déductible des impôts.<br>
-www.fragmentis-vitae.org
+
 
 Sun-Lay Tan
 
