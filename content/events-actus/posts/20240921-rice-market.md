@@ -2,6 +2,7 @@
 title: "[Agenda] Samedi 21 septembre 2024 - Rice Market à Paris"
 description: "Fragmentis Vitae Asia sera présente au Rice Market, le samedi 21 septembre, de 12h à 22h."
 date: 2024-09-21
+image: /images/events/rice-market.jpg
 ---
 
 Venez nous rencontrer au stand Fragmentis Vitae Asia, le samedi 21 septembre.<br>
