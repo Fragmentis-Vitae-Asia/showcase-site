@@ -10,5 +10,4 @@ image: /images/events/forum-association-lognes.jpg
 
 
 Le Forum des Associations se tiendra le samedi 7 septembre 2024 de 10h à 18h sur l’esplanade des Droits de l’Homme.
-L’occasion de découvrir les nombreuses associations culturelles et sportives de Lognes et trouver l’activité de votre rentrée !
-L'association Fragmentis Vitae Asia y fera sa rentrée !
+Les 3 piliers du projet Fragments #KH50 - notamment le mémorial - vous seront présentés au stand de l'association Amazing Durian.
