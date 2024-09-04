@@ -5,20 +5,17 @@ date: 2024-09-21
 image: /images/events/rice-market.jpg
 ---
 
-Venez nous rencontrer au stand Fragmentis Vitae Asia, le samedi 21 septembre.<br>
-Nous serons présents tout au long de l'événements. Venez rencontrer les invités exclusifs qui seront présents spécialement à notre stand.<br>
-Vous pourrez également tenter votre chance à notre tombola pour gagner de nombreux lots !
+Nous sommes ravis de vous annoncer que nous serons présents au Rice Market, un événement unique qui célèbre la culture culinaire asiatique. Cet événement aura lieu le 21 septembre à Paris et réunira des chefs talentueux, des recettes asiatiques traditionnelles ou originales, et des amateurs de gastronomie pour une journée remplie de découvertes gustatives.<br>
+
+Ne manquez pas notre stand où nous vous tiendrons informés sur nos projets en cours. Nous y avons également préparé des jeux et il y aura une tombola avec de nombreux lots à gagner !<br>
+
+**Date :** Samedi 21 Septembre à partir de 12h à 22h.<br>
+**Adresse :** 1-51 Boulevard Auguste Blanqui, Paris 13e (emplacement du marché).<br>
+**Métro :** Place d’Italie / Corvisart.<br>
+**Participation :** Gratuite.<br>
 
 *Le rice market est un rendez-vous qui célèbre les richesses culinaires et culturelles, à l’occasion de la fête de la Lune.*<br>
 *La 2ème édition «  RICE TO MEET YOU » se déroulera le samedi 21 Septembre.*<br>
 *Au programme, il est prévu de la street food à gogo, des jeux pour toute la famille, et de la musique.*
 
-**Date :** Samedi 21 Septembre à partir de 12h à 22h.<br>
-**Adresse :** 1-51 Boulevard Auguste Blanqui, Paris 13e (emplacement du marché).<br>
-**Métro :** Place d’Italie / Corvisart. <br>
-**Participation :** Gratuite.
-
 ![image d'illustration](/images/events/rice-market.jpg)
-
-
-
