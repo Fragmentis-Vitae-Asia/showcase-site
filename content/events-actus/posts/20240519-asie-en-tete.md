@@ -17,7 +17,4 @@ Nous remercions chaleureusement toutes les associations qui nous ont soutenus to
 @jeunes_teochew_france @banhmi_media @ajcf_fr @selepakkhmer @ecolekhmeredeparis @galerie.oia @yuvachun_fr
 @asiatitudes @majestediamants @villedenoisiel @cocoonin_paris @kh.co.shop @tcha.foodtruck @pates_thai_place_ditalie @miss_cambodge_en_france @roots.cookies GFC Pharma
 
-
-
-
-![image d'illustration](/images/events/sunlay-anniversaire.jpg)
+![image d'illustration](/images/events/asietete/1.jpg)
