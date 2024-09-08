@@ -1,5 +1,5 @@
 - name: Ville de Lognes
-  picture: "https://lh3.googleusercontent.com/drive-viewer/AKGpihaEX5lgz6t7BIOn8bVyI2WB-5cl00wwOhK_GYuOx0fdezOXEy14b68R-bhj1Y2BG6hxfg2ROPvFAC6KD-Hb79CMSH1-UWIkPso=s1600-rw-v1"
+  picture: "/images/companies/lognes.jpg"
 - name: Ville de Noisiel
   picture: "/images/companies/noisiel.png" 
 - name: Ville de Bussy-Saint-Georges
@@ -20,13 +20,13 @@
 - name: Association des Jeunes chinois de France
   picture: "/images/companies/ajcf.png"
 - name: Maison de la Francophonie (Bussy Saint-Georges)
-  picture: "https://lh3.googleusercontent.com/drive-viewer/AKGpihYQGfiL3Z9jjtUqWMMUBJxnb8tV7nPUTEu6PwSK8uIRx3ji81IEGA6Lpoi6nJ9o2QkBuB0FlFbeAxkLN9LaR7nJ6_5ccCWJyhI=s2560"
+  picture: "/images/companies/maison-francophonie.png"
 - name: Majesté Diamants
   picture: "/images/companies/majeste-val-europe.jpg"
 - name: PF Millénaire
-  picture: "https://lh3.googleusercontent.com/drive-viewer/AKGpihZl3SsiT41R4A3emE-q8WFYT-NR6-248C9OYswJujARtHpTrrxBFbwkILAiEMzQXvr6FMohNp3bi5Gxmv_Uff-3C4t8Be5EuJw=s2560"
+  picture: "/images/companies/PF-Millenaire.png"
 - name: OIA Galerie
-  picture: "https://lh3.googleusercontent.com/drive-viewer/AKGpihZQcTyt7GtGgltUwu1jvNT6qWpmE_VpevG1Wp7VvXyUtSdBrBgTtEHQvMvSQiTdZmpfV3EKlIfWY73ijWhIGuRAtm9LHAW8xw=s2560"
+  picture: "/images/companies/galerie-oia.jpg"
 - name: Hôtel Mercure Bussy-Saint-Georges
-  picture: "https://lh3.googleusercontent.com/drive-viewer/AKGpihZTMbx9IZkdJTT2MSZfcnUJmZpFcPP65Wy8w2LI5A1ya9YGGb6PoHnrnPGCloIDzKuiq5Yi1QjYme_hC0QWaQRWGYzsYpTbrRQ=s1600-rw-v1"
+  picture: "/images/companies/mercure-bussy.jpeg"
   
