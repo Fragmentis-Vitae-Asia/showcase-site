@@ -1,8 +1,8 @@
 ---
 title: "[Actu] Jeudi 4 Juillet 2024 - Lettre de soutien du Prince du Cambodge"
-description: "Retour en images sur l'événement l'Asie en tête organisé avec nos associations partenaires"
-date: 2024-05-20
-image: /images/events/affiche-asie-en-tete.PNG
+description: "Dans cet article, vous retrouverez la lettre de soutien du Prince du Cambodge"
+date: 2024-07-04
+image: /images/events/lettre-soutien-prince-norodom.png
 ---
 
 "Le prince Norodom Preyaro du Cambodge vient d’apporter son soutien au projet Fragments #KH50 au travers 
