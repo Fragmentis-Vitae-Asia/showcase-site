@@ -1,8 +1,8 @@
 
 ---
 title: Steve Tran
-description: "Jean est un artiste"
-image: /images/khco.jpg
+description: "Steve tran est notre artiste du mois de septembre."
+image: /images/portraits/steve-affiche.png
 ---
 
 # Jean 
