@@ -43,7 +43,7 @@ image: /images/portraits/steve-affiche.png
 
 **Participation future à l’association :** Steve Tran pourrait jouer un rôle clé dans la sensibilisation des jeunes générations au sein de Fragments Vitae Asia, notamment à travers des événements et des collaborations futures autour du projet Fragments #KH50.
 
-**En ce moment :** Retrouvez Steve Tran à la Divine Comédie tous les mercredis à 21h15, du 18 septembre 2024 au 8 janvier 2025, dans son spectacle *Tu l’as déjà vu quelque part…*.<br>
+**En ce moment :** Retrouvez Steve Tran à la Divine Comédie tous les mercredis à 21h15, du 18 septembre 2024 au 8 janvier 2025, dans son spectacle *Tu l’as déjà vu quelque part…*.<br><br>
 ![Spectacle](/images/portraits/steve-affiche.png)
 
 # 7. Citations ou Témoignages
@@ -53,8 +53,8 @@ image: /images/portraits/steve-affiche.png
 **Avis d’experts :** Reconnu pour sa capacité à captiver le public avec humour et émotion, Steve est considéré comme un acteur polyvalent avec une grande sensibilité.
 
 **Avis du public - Ils l’ont vu sur scène :**
-“*Steve Tran nous a TRANsporté au travers de sa performance musicale/vocale riche et surprenante. Des sketches drôles, intimistes et débordants d’humanité.*” — Dwé.
-“*Merci pour ce moment Steve. C’était drôle, touchant et inspirant. Les petits instants musicaux étaient parfaits.*” — Tania
+“*Steve Tran nous a TRANsporté au travers de sa performance musicale/vocale riche et surprenante. Des sketches drôles, intimistes et débordants d’humanité.*” — Dwé.<br>
+“*Merci pour ce moment Steve. C’était drôle, touchant et inspirant. Les petits instants musicaux étaient parfaits.*” — Tania<br>
 “*Le show est un régal+++. Un vrai show comme on les aime : avec des rires, je dirais même des éclats de rire et plus encore. On aime la sincérité des anecdotes, la proximité avec le public, et la cerise sur le gâteau : de la musique et du chant (sans fausse note). De la bonne énergie qui se transmet tout simplement, et c’est ça qu’on est venu chercher. De la profondeur dans la légèreté.*” — Mary
 
 
