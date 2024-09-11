@@ -52,7 +52,7 @@ image: /images/portraits/steve-affiche.png
 
 **Avis d’experts :** Reconnu pour sa capacité à captiver le public avec humour et émotion, Steve est considéré comme un acteur polyvalent avec une grande sensibilité.
 
-**Avis du public - Ils l’ont vu sur scène :** <br><br>
+**Avis du public - Ils l’ont vu sur scène :** <br>
 “*Steve Tran nous a TRANsporté au travers de sa performance musicale/vocale riche et surprenante. Des sketches drôles, intimistes et débordants d’humanité.*” — Dwé.<br>
 “*Merci pour ce moment Steve. C’était drôle, touchant et inspirant. Les petits instants musicaux étaient parfaits.*” — Tania<br>
 “*Le show est un régal+++. Un vrai show comme on les aime : avec des rires, je dirais même des éclats de rire et plus encore. On aime la sincérité des anecdotes, la proximité avec le public, et la cerise sur le gâteau : de la musique et du chant (sans fausse note). De la bonne énergie qui se transmet tout simplement, et c’est ça qu’on est venu chercher. De la profondeur dans la légèreté.*” — Mary
