@@ -5,24 +5,6 @@ description: "Steve tran est notre artiste du mois de septembre."
 image: /images/portraits/steve-affiche.png
 ---
 
-# Jean 
-
-![Sun Lay Tan](/images/founders/sunlay_tan.jpeg)
-
-## Biographie
-
-## Présentation
-
-### _Q: Quel est le parcours de Jean?_
-
-Jean a commencé à peindre à l'âge de 5 ans. Il a étudié à l'école des beaux-arts de Paris. Il a exposé dans de nombreux musées et galeries en France et à l'étranger.
-
-### _Q: Quel est le parcours de Jean?_
-
-Jean a commencé _à peindre_ à l'âge *de 5 ans*. Il a étudié à l'école des beaux-arts de Paris. Il a exposé dans de nombreux musées et galeries en France et à l'étranger.
-
-
-
 # 1. Présentation Générale
 **Nom complet :** Steve Tran
 
@@ -61,7 +43,7 @@ Jean a commencé _à peindre_ à l'âge *de 5 ans*. Il a étudié à l'école de
 
 **Participation future à l’association :** Steve Tran pourrait jouer un rôle clé dans la sensibilisation des jeunes générations au sein de Fragments Vitae Asia, notamment à travers des événements et des collaborations futures autour du projet Fragments #KH50.
 
-**En ce moment :** Retrouvez Steve Tran à la Divine Comédie tous les mercredis à 21h15, du 18 septembre 2024 au 8 janvier 2025, dans son spectacle *Tu l’as déjà vu quelque part…*.
+**En ce moment :** Retrouvez Steve Tran à la Divine Comédie tous les mercredis à 21h15, du 18 septembre 2024 au 8 janvier 2025, dans son spectacle *Tu l’as déjà vu quelque part…*.<br>
 ![Spectacle](/images/portraits/steve-affiche.png)
 
 # 7. Citations ou Témoignages
