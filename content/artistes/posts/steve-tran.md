@@ -59,7 +59,7 @@ image: /images/portraits/profile-steve-carre.png
 
 
 # 8. Liens et Réseaux Sociaux
-**Site web/Portfolio :** [Ajoutez le lien]
+**Site web/Portfolio :** A venir
 
 **Réseaux sociaux :** Suivez Steve Tran sur son profil Instagram : @STEVE__TRAN
 
