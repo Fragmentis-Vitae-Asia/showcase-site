@@ -60,7 +60,7 @@ date: 2024-09-15
 
 
 # 8. Liens et Réseaux Sociaux
-**Site web/Portfolio :** A venir
+**Billetterie de son spectacle :** [A venir](https://www.billetreduc.com/355655/evt.htm)
 
 **Réseaux sociaux :** Suivez Steve Tran sur son profil Instagram : @STEVE__TRAN
 
