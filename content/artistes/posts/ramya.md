@@ -74,3 +74,9 @@ Organiser des projets d’exposition éphémères mettant en lumière liens entr
 L’œuvre ne se limite pas à son périmètre physique. Elle matérialise une intention venue du dedans, une énergie créatrice qui fait sens pour l’artiste et pour ceux qui la contemplent.
 Elle transcende les frontières spatiales et temporelles.
 **“Métamorphose Évolutive”** est une invitation à explorer notre propre transformation. Elle est le témoin silencieux de notre devenir.*
+
+# Quelques photos
+Retrouvez ci-dessous quelques photos de l'oeuvre "Hydride" de Ramya, une sculpture évolutive, qui ne cesse d'évoluer chaque année.
+[Hybride](/images/portraits/ramya-hybride.jpeg)
+[Hybride](/images/portraits/ramya-hybride-2.jpeg)
+[Hybride](/images/portraits/ramya-hybride-3.jpeg)
