@@ -26,6 +26,9 @@ menu:
     - name: Actus
       url: /events-actus/
       weight: 70
+    - name : Artistes
+      url: /artistes/
+      weight: 75
     - name: Presse
       url: /espace-presse/
       weight: 80
