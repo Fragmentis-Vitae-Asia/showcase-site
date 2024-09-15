@@ -2,7 +2,7 @@
 ---
 title: Steve Tran
 description: "Steve tran est notre artiste du mois de septembre."
-image: /images/portraits/steve-affiche.png
+image: /images/portraits/profile-steve-carre.png
 ---
 
 # 1. Présentation Générale
