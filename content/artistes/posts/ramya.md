@@ -57,3 +57,20 @@ Je me permets une petite citation d’André Malraux, « L’art, c’est le plu
 Malgré des épreuves extrêmes, c’est à travers l’art que la résilience du Cambodge se manifeste.
 Je pense que l’art a été un pilier essentiel pour la guérison et la reconstruction du Cambodge post-génocide. L’artisanat, les arts visuels, la musique, la danse et le théâtre ont servi de moyens pour exprimer la douleur, la mémoire et l’espoir.
 La préservation de ce patrimoine culturel, permet de fournir un espace de guérison collective pour les survivants et leurs descendants.
+
+# Quels sont tes projets en cours de réflexion ?
+#### Dans le cadre du rayonnement de notre association FRAGMENTIS Vitae Asia, j’aimerais mettre en place quelques choses comme… “Résonances khmères : Passé et Présent”
+
+#### Le fond, sur le long terme : 
+Célébrer la richesse culturelle du Cambodge à travers le temps, avec des expositions qui explorent les connexions entre les arts anciens khmers et les œuvres contemporaines d’artistes cambodgiens.
+
+#### A moyen terme : 
+Organiser des projets d’exposition éphémères mettant en lumière liens entre divers domaines des arts anciens et l’art contemporain cambodgien. (Dessin, tatouage, peinture, sculpture, installation…)
+
+# Quelles sont tes citations
+*Ce qui se voit cache ce qui était, ce qui est, et ce qui sera peut-être. L’oeuvre n’est qu’une “Métamorphose Évolutive” qui est en perpétuelle mutation, comme tout ce qui nous entoure (métaphore de la vie). Elle est à la fois présence et absence, révélation et mystère.*
+
+*Dedans et Dehors :
+L’œuvre ne se limite pas à son périmètre physique. Elle matérialise une intention venue du dedans, une énergie créatrice qui fait sens pour l’artiste et pour ceux qui la contemplent.
+Elle transcende les frontières spatiales et temporelles.
+**“Métamorphose Évolutive”** est une invitation à explorer notre propre transformation. Elle est le témoin silencieux de notre devenir.*
