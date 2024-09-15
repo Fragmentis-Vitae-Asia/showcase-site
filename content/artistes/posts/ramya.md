@@ -12,12 +12,12 @@ Il a fait toute sa scolarité à Dijon et il est diplômé de l’Ecole National
 Le dessin est au coeur du moyen d'expression... Et ce, depuis ses 5 ans et son arrivée en France avec ses parents en provenance du Cambodge, lors du conflit avec les Khmers Rouges et Pol Pot.<br>
 *« A l’école primaire, le dessin a été mon premier réflexe pour communiquer, puisque je ne maitrisais pas la langue. Cela m’a permis d’échanger avec les autres enfants. C'est resté et c'est devenu un outil de communication quotidien».*<br>
 
-## *Des techniques mixtes* pour réaliser ses oeuvres. 
+### *Des techniques mixtes* pour réaliser ses oeuvres. 
 Les divers sujets qu’il aborde (bestiaire, portraits, mythologies et SF) sont pour lui, des prétextes pour l’acte de peindre afin se mettre au défi.
 Les notions de temps ont une place importante dans ses réalisations et c’est dans ce cadre de l’urgence qu’évolue sa peinture. Un moyen d’expression pour aller à l’essentiel et retrouver l’instinct primordial à travers le geste. Des mouvements de formes transcendants qui traduit l’écho du temps, métaphore de la toile de la vie en perpétuel changement.
 Les oeuvres de l’artiste tendent à évoquer des émotions primaires et dont les vibrations viendraient du dedans pour lui faire sens, ainsi que pour ceux qui perçoivent au dehors.
 
-## *La peinture* est un geste de liberté, évoluant dans un esprit hiératique-moderne qui semble être pour lui une véritable quête vers ses origines. 
+### *La peinture* est un geste de liberté, évoluant dans un esprit hiératique-moderne qui semble être pour lui une véritable quête vers ses origines. 
 De 2000 à 2019, il crée son atelier de design d’espace, avec une approche technique et esthétique dans la restructuration d’espaces publics et privés, avec comme clientèle principale le particulier. Réhabilitation, agencements, aménagements intérieurs/extérieurs et extensions.
 En parallèle de son activité d’architecte d’intérieur, il crée son atelier artistique dans les domaines de la peinture, la sculpture et l’installation.
 
@@ -33,18 +33,27 @@ Depuis 2023, il est membre actif de l’association FRAGMENTIS, dont les valeurs
 
 # Ses Références des 3 dernières années
 
-## Présentation de Dessins/peintures
+### Présentation de Dessins/peintures
 
-### Exposition « Roots » à The Gallerist à Phnom Penh au Cambodge (2023-2025)
+#### Exposition « Roots » à The Gallerist à Phnom Penh au Cambodge (2023-2025)
 Présentation d’une série de peinture sur la culture Khmère (mémoire des racines, avec des symboles comme Apsaras, Hanuman, Garuda…). 
 
-### Exposition installation « Diorama » aux jardins des sciences de Dijon (2022)
+#### Exposition installation « Diorama » aux jardins des sciences de Dijon (2022)
 Présentation d’une série d’installation artistique sur les pollinisateurs, dans des interprétations utopique/dystopique, en étroite collaboration avec des entomologistes, experts en histoire naturelle et avec accès aux archives et collections privées du musée. 
 
-## Présentation de mes recherches sur les sculptures évolutives.
+### Présentation de mes recherches sur les sculptures évolutives.
 
-### Exposition installation « Métamorphoses » à l’espace culturel l’Escale de Talant (2023)
+#### Exposition installation « Métamorphoses » à l’espace culturel l’Escale de Talant (2023)
 Présentation d’une scénographie d’oeuvres évolutives sous formes d’atelier-laboratoire artistique et de cabinets de curiosités expérimentaux. 
 
-### Expositions installation « les années tropiques » au FRAC BFC, les Bains du Nord et au Musée des Beaux Arts de Dijon (2021)
+#### Expositions installation « les années tropiques » au FRAC BFC, les Bains du Nord et au Musée des Beaux Arts de Dijon (2021)
 Présentation d’oeuvres évolutives en cours de construction avec d’autres artistes de la résidence la Halle 38. 
+
+# Comment participes-tu au projet de monument FRAGMENTS #KH50 ?
+En tant qu’artiste d’origine Khmère, je soutiens la construction d’un monument commémoratif pour honorer les victimes du génocide sous Pol Pot, car cela permet de préserver la mémoire collective et de sensibiliser aux dangers de l’oubli des atrocités passées. 
+C’est aussi le récit de mes parents, la mienne et cette démarche personnelle vise à reconnaître et à valoriser l’histoire et la résilience d’une famille à l’image d’un peuple face à ces épreuves tragiques.
+
+Je me permets une petite citation d’André Malraux, « L’art, c’est le plus court chemin de l’homme à l’homme », qui souligne le pouvoir de l’art à transcender les barrières et à créer des liens profonds entre les individus. Ça résonance particulièrement dans l’histoire récente de notre Cambodge, où l’art a joué un rôle crucial dans la résilience et la reconstruction de notre peuple cambodgien après les horreurs du régime des Khmers rouges.
+Malgré des épreuves extrêmes, c’est à travers l’art que la résilience du Cambodge se manifeste.
+Je pense que l’art a été un pilier essentiel pour la guérison et la reconstruction du Cambodge post-génocide. L’artisanat, les arts visuels, la musique, la danse et le théâtre ont servi de moyens pour exprimer la douleur, la mémoire et l’espoir.
+La préservation de ce patrimoine culturel, permet de fournir un espace de guérison collective pour les survivants et leurs descendants.
