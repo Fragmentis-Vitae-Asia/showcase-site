@@ -1,7 +1,7 @@
 
 ---
 title: Steve Tran
-description: "Steve tran est un artiste, acteur, humoriste, réalisateur, qui soutient Fragmentis Vitae Asia son projet. Nous dressons son protrait à l'occasion de ce mois de septembre."
+description: "Steve tran est un artiste, acteur, humoriste, réalisateur, qui soutient Fragmentis Vitae Asia et son projet Fragments #KH50. Nous dressons son protrait à l'occasion de ce mois de septembre."
 image: /images/portraits/profile-steve-carre.png
 date: 2024-09-15
 ---
