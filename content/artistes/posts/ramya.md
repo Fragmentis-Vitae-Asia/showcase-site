@@ -78,6 +78,6 @@ Elle transcende les frontières spatiales et temporelles.
 
 # Quelques photos
 Retrouvez ci-dessous quelques photos de l'oeuvre "Hydride" de Ramya, une sculpture évolutive, qui ne cesse d'évoluer chaque année.
-![Hybride](/images/portraits/ramya-hybride.jpeg)
-![Hybride](/images/portraits/ramya-hybride-2.jpeg)
+![Hybride](/images/portraits/ramya-hybride.jpeg)<br><br>
+![Hybride](/images/portraits/ramya-hybride-2.jpeg)<br><br>
 ![Hybride](/images/portraits/ramya-hybride-3.jpeg)
