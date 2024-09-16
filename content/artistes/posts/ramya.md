@@ -65,9 +65,6 @@ La préservation de ce patrimoine culturel, permet de fournir un espace de guér
 #### Le fond, sur le long terme : 
 Célébrer la richesse culturelle du Cambodge à travers le temps, avec des expositions qui explorent les connexions entre les arts anciens khmers et les œuvres contemporaines d’artistes cambodgiens.
 
-#### A moyen terme : 
-Organiser des projets d’exposition éphémères mettant en lumière liens entre divers domaines des arts anciens et l’art contemporain cambodgien. (Dessin, tatouage, peinture, sculpture, installation…)
-
 # Quelles sont tes citations ?
 *Ce qui se voit cache ce qui était, ce qui est, et ce qui sera peut-être. L’oeuvre n’est qu’une “Métamorphose Évolutive” qui est en perpétuelle mutation, comme tout ce qui nous entoure (métaphore de la vie). Elle est à la fois présence et absence, révélation et mystère.*
 
@@ -77,7 +74,6 @@ Elle transcende les frontières spatiales et temporelles.
 **“Métamorphose Évolutive”** est une invitation à explorer notre propre transformation. Elle est le témoin silencieux de notre devenir.*
 
 # Quelques photos
-Retrouvez ci-dessous quelques photos de l'oeuvre "Hydride" de Ramya, une sculpture évolutive, qui ne cesse d'évoluer chaque année.
-![Hybride](/images/portraits/ramya-hybride.jpeg)<br><br>
-![Hybride](/images/portraits/ramya-hybride-2.jpeg)<br><br>
-![Hybride](/images/portraits/ramya-hybride-3.jpeg)
+Retrouvez ci-dessous quelques photos de l'oeuvre "Hydride" de Ramya, une sculpture évolutive, qui ne cesse d'évoluer chaque année, ainsi que quelques unes de ses peintures.
+![Hybride](/images/portraits/ramya-hybride-mosa.jpg)<br><br>
+![Hybride](/images/portraits/ramya-peintures.jpg)
