@@ -20,7 +20,7 @@ menu:
     - name: Soutiens
       url: /soutiens/
       weight: 50
-    - name: 'Contribuez'
+    - name: 'Shop'
       url: /contributeurs/
       weight: 60
     - name: Actus
