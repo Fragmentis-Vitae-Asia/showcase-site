@@ -72,7 +72,7 @@ Célébrer la richesse culturelle du Cambodge à travers le temps, avec des expo
 Retrouvez ci-dessous quelques photos de l'oeuvre "Hydride" de Ramya, une sculpture évolutive, qui ne cesse d'évoluer chaque année, ainsi que quelques unes de ses peintures.
 ![Hybride](/images/portraits/ramya-hybride-mosa.jpg)<br><br>
 ![Hybride](/images/portraits/ramya-peintures.jpg) <br><br>
-![Hybride](/images/portraits/ramya-oeuvre1.jpg) <br><br>
-![Hybride](/images/portraits/ramya-oeuvre2.jpg) <br><br>
-![Hybride](/images/portraits/ramya-oeuvre3.jpg) <br><br>
-![Hybride](/images/portraits/ramya-oeuvre4.jpg) <br><br>
+![Hybride](/images/portraits/ramya-oeuvre1.jpeg) <br><br>
+![Hybride](/images/portraits/ramya-oeuvre2.jpeg) <br><br>
+![Hybride](/images/portraits/ramya-oeuvre3.jpeg) <br><br>
+![Hybride](/images/portraits/ramya-oeuvre4.jpeg) <br><br>
