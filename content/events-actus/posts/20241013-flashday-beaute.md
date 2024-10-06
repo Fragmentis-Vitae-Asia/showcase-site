@@ -33,4 +33,4 @@ RDV le 13 octobre, on compte sur vous ! 💖
 **Métro :** M5 - St-Marcel.<br>
 **Participation :** Les fonds collectés soutiendront l'association et le projet.<br>
 
-![image d'illustration](/images/events/flashday-beaute.jpg)
+![image d'illustration](/images/events/flashday-beaute.PNG)
