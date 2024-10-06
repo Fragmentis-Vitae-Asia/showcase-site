@@ -29,8 +29,13 @@ Vous pouvez contribuer au monument de commémoration en faisant un don :<br>
 [https://www.helloasso.com/associations/fragmentis-vitae/formulaires/3](https://www.helloasso.com/associations/fragmentis-vitae/formulaires/3)<br>
 Nous vous remercions chaleureusement de votre aide.<br>
 
-![image d'illustration](/images/events/monument_3D.jpg)
+![image d'illustration](/images/events/monument_3D.jpg)<br><br>
+## Pour résumer
 
+![image d'illustration](/images/events/monument_frise.jpg)
+
+<br><br>
+## Génèse du Mémorial KH50
 Le  **Mémorial KH50** est le témoignage vivant d’une tragédie humaine, un lieu de recueillement et de transmission. Premier pilier du projet **FRAGMENTS #KH50**, initié par **Sun-Lay TAN** et porté par l'association **Fragmentis Vitae Asie**, ce mémorial a pour vocation de préserver la mémoire de près de **deux millions de Cambodgiens** qui ont tragiquement perdu la vie sous le régime de Pol Pot.<br>
 C’est un hommage puissant à ceux qui ne sont plus là, mais aussi à ceux qui, avec une force inimaginable, ont survécu à l’indicible. À partir de 1975, des milliers de familles d’Asie du Sud-Est ont fui leur pays, portant uniquement avec elles leurs souvenirs, leur souffrance, mais aussi leur **courage** et leur **espoir**. En trouvant refuge en France, des familles ont reconstruit leur vie avec une dignité et un courage qui forcent l’admiration.<br>
 Le Mémorial KH50 sera inauguré au printemps 2025, à l’occasion de la **commémoration de la prise de Phnom Penh**, capitale du Cambodge, le 17 avril 2025. Il sera érigé à **Lognes**, une commune emblématique de la Seine-et-Marne pour toute la diaspora cambodgienne qui accueille depuis des décennies de nombreuses familles venues d’Asie du Sud-Est. Le lieu symbolique d’une nouvelle vie. Ce mémorial symbolise aussi la **reconnaissance** que nous portons envers ces nations et les peuples qui les ont accueillies, en particulier la France, où nos parents ont pu trouver refuge et un nouveau départ.<br>
