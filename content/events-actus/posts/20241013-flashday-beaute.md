@@ -12,7 +12,9 @@ Tous les fonds collectés soutiendront le projet Fragments #KH50 , dédié à la
 
 Tatoueurs, barbiers et masseurs seront là pour vous offrir leurs talents, dans une ambiance conviviale et engagée !
 
-🔸 Au programme :
+![image d'illustration](/images/events/flashday-beaute.PNG)
+
+# 🔸 Au programme :
 * Tatouages avec @starasian & @alexia_yumcha
 * Barberie en compagnie de @_barberie75_
 * Massages avec les experts @magichands.formation
@@ -33,4 +35,3 @@ RDV le 13 octobre, on compte sur vous ! 💖
 **Métro :** M5 - St-Marcel.<br>
 **Participation :** Les fonds collectés soutiendront l'association et le projet.<br>
 
-![image d'illustration](/images/events/flashday-beaute.PNG)
