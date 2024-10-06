@@ -10,6 +10,10 @@ Chers amis,<br>
 Les travaux pour la pose du socle du Mémorial ont commencé ce mercredi 25 septembre à Lognes.
 Il s'agit d'une étape majeure dans le cadre de ce projet. 
 
+## Chronologie du Mémorial KH50
+
+![image d'illustration](/images/events/monument_frise.jpg)
+
 ## Etape 1 : Autorisation de la Mairie de Lognes - [Statut : autorisation obtenue]
 A date, nous avons obtenu l'autorisation de la Mairie pour construire le monument.
 Le Mémorial KH50 sera édifié en lisière de forêt, à Lognes (en Seine-et-Marne). Ce lieu évoque le refuge qu’ont trouvé les familles cambodgiennes dès le début des années 1980. <br><br>
@@ -30,9 +34,7 @@ Vous pouvez contribuer au monument de commémoration en faisant un don :<br>
 Nous vous remercions chaleureusement de votre aide.<br>
 
 ![image d'illustration](/images/events/monument_3D.jpg)<br><br>
-## Pour résumer
 
-![image d'illustration](/images/events/monument_frise.jpg)
 
 <br><br>
 ## Génèse du Mémorial KH50
