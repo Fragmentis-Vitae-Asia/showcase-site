@@ -10,19 +10,20 @@ Chers amis,<br>
 Les travaux pour la pose du socle du Mémorial ont commencé ce mercredi 25 septembre à Lognes.
 Il s'agit d'une étape majeure dans le cadre de ce projet. 
 
-## Etape 1 : Autorisation de la Mairie de Lognes - obtenue
-A date, nous avons l'autorisation de la Mairie pour construire le monument.
+## Etape 1 : Autorisation de la Mairie de Lognes - [Statut : autorisation obtenue]
+A date, nous avons obtenu l'autorisation de la Mairie pour construire le monument.
 Le Mémorial KH50 sera édifié en lisière de forêt, à Lognes (en Seine-et-Marne). Ce lieu évoque le refuge qu’ont trouvé les familles cambodgiennes dès le début des années 1980. 
+![image d'illustration](/images/events/monument_emplacement_2.jpg)
 ![image d'illustration](/images/events/monument_emplacement.jpg)
 
 
-## Etape 2 : Pose du socle - en cours
+## Etape 2 : Pose du socle - [Statut : socle en cours de construction]
 Ce mercredi 25 septembre 2024 marque le début des travaux du socle qui accueillera le monument. Cette réalisation est entièrement prise en charge par la Mairie de Lognes.
 Il ne reste donc plus qu'à terminer le financement du monument pour déclencher sa fabrication puis son installation sur le socle (voir étape 3).
 ![image d'illustration](/images/events/monument_autorisation.jpg)
 ![image d'illustration](/images/events/monument_socle.jpg)
 
-## Etape 3 : Collecte pour le monument - en cours (40%)
+## Etape 3 : Collecte pour le monument - [Statut : collecte de dons en cours (40%)]
 A date, 40% du financement du monument ont été collectés. Il reste donc 60% à financer. Si nous arrivons à lever les fonds d'ici la fin de l'année 2024, cela nous permettrait une livraison pour le printemps 2025.
 Vous pouvez contribuer au monument de commémoration en faisant un don :<br>
 [https://www.helloasso.com/associations/fragmentis-vitae/formulaires/3](https://www.helloasso.com/associations/fragmentis-vitae/formulaires/3)<br>
