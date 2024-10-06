@@ -1,13 +1,13 @@
 ---
-title: "[Actu] Mercredi 25 septembre 2024 - Construction du socle du mémorial"
-description: "Les travaux pour la pose du socle du monument ont commencé, l'occasion de vous tenir au courant de l'avancement du projet"
+title: "[Actu] Mercredi 25 septembre 2024 - Construction du socle du Mémorial"
+description: "Les travaux pour la pose du socle du Mémorial ont commencé, l'occasion de vous tenir au courant de l'avancement du projet"
 date: 2024-09-25
 image: /images/events/monument_socle.jpg
 ---
 
 Chers amis,<br>
 <br>
-Les travaux pour la pose du socle du monument ont commencé ce mercredi 25 septembre à Lognes.
+Les travaux pour la pose du socle du Mémorial ont commencé ce mercredi 25 septembre à Lognes.
 Il s'agit d'une étape majeure dans le cadre de ce projet. 
 
 ## Etape 1 : Autorisation de la Mairie de Lognes - obtenue
