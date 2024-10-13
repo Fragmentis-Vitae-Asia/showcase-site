@@ -23,9 +23,13 @@ Au gré de l’histoire du Cambodge, la population cambodgienne s’est fragment
 ## Pourquoi ce projet ?
 
 Le projet **FRAGMENTS #KH50** a plusieurs finalités :
-1/ Mener un **travail de mémoir**e afin de perpétuer le souvenir des disparus 
-2/ **Transmettre** aux futures générations, les éclairer, tout en réappropriant le présent 
+
+1/ Mener un **travail de mémoir**e afin de perpétuer le souvenir des disparus.
+
+2/ **Transmettre** aux futures générations, les éclairer, tout en réappropriant le présent.
+
 3/ Accompagner la jeune génération et celle à venir vers leur quête de soi. 
+
 4/ Exprimer la **reconnaissance** et le sentiment d’appartenance des descendants de réfugiés cambodgiens envers la France. En fuyant ou évitant le pire, de nombreux cambodgiens ont trouvé refuge en France offrant à leur descendance une vie plus propice à l’avenir. 
 
 La réussite du projet permettra d’apporter des réponses à toute la génération des enfants nés au moment de la fuite et aux générations d’après. 
@@ -38,7 +42,7 @@ _**MÉMOIRE, TRANSMISSION, RÉSILIENCE**_
 
 ![image d'illustration](/images/presentation/4.jpg)
  
-Le projet FRAGMENTS #KH50 repose sur trois piliers : 
+ **FRAGMENTS #KH50** repose sur trois piliers : 
 
 1/ Un mémorial à la mémoire des victimes du régime de Pol Pot, en l’honneur du courage et de la résilience des réfugiés d’Asie du Sud-Est, en hommage aux combattants d’Asie du Sud-Est morts pour la France et en reconnaissance à la France, terre d’accueil de nos parents. Le Mémorial sera érigé dans la commne Lognes, en Seine-et-Marne, et sera inauguré au printemps 2025 pour commémorer le cinquantenaire de la Prise de Phnom-Penh (17 avril 1975). 
 
