@@ -20,13 +20,13 @@ menu:
     - name: Soutiens
       url: /soutiens/
       weight: 50
-    - name: 'Shop'
+    - name: "Shop"
       url: /contributeurs/
       weight: 60
     - name: Actus
       url: /events-actus/
       weight: 70
-    - name : Artistes
+    - name: Artistes
       url: /artistes/
       weight: 75
     - name: Presse
@@ -55,12 +55,10 @@ menu:
 
 params:
   author: loiklak
-  description: "Le projet Fragments #KH50 est principalement initié par des descendants de réfugiés ayant fui le Cambodge et porté par l’association Loi 1901, Fragmentis Vitae Asia. 
+  description:
+    "Le projet FRAGMENTS #KH50 a été initié par des descendants de familles ayant fui le Cambodge pour se réfugier en France afin de mener un travail de mémoire.  Du fait de l’exil et de la guerre, chacun ne possède que quelques fragments de l’histoire de sa famille.
 
-Du fait de l’exil, de la guerre civile et de la période génocidaire, chacun ne possède que quelques fragments de l’histoire de sa famille.
-
-FRAGMENTS #KH50 a pour objectif de rassembler ces fragments d’histoires pour reconstituer la Mémoire collective."
-
+    Porté par l’association Loi 1901, FRAGMENTIS VITAE ASIA, reconnue d’intérêt général, le projet a pour objectif  rassembler ces fragments d’histoires personnelles pour reconstituer la mémoire collective"
 
   defaultTheme: auto
   # disableThemeToggle: true
@@ -73,14 +71,10 @@ FRAGMENTS #KH50 a pour objectif de rassembler ces fragments d’histoires pour r
     enabled: true
     title: "Fragments #KH50"
     description:
-      "Le projet Fragments #KH50 est principalement initié par des descendants de réfugiés ayant fui le Cambodge et porté par l’association Loi 1901, Fragmentis Vitae Asia. 
-Du fait de l’exil, de la guerre civile et de la période génocidaire, chacun ne possède que quelques fragments de l’histoire de sa famille.\n
+      "Le projet FRAGMENTS #KH50 a été initié par des descendants de familles ayant fui le Cambodge pour se réfugier en France afin de mener un travail de mémoire.  Du fait de l’exil et de la guerre, chacun ne possède que quelques fragments de l’histoire de sa famille.\n
 
-
-
-      **FRAGMENTS #KH50 a pour objectif de rassembler ces fragments d’histoires pour reconstituer la Mémoire collective.**\n
+      Porté par l’association Loi 1901, FRAGMENTIS VITAE ASIA, reconnue d’intérêt général, le projet a pour objectif  rassembler ces fragments d’histoires personnelles pour reconstituer la mémoire collective
       "
-
     imageUrl: "/images/fragment-rond.svg"
     imageTitle: logo fragments
     imageWidth: 300
