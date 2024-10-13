@@ -3,8 +3,6 @@ title: Le projet FRAGMENTS KH50
 ---
 
 ![Hero image](/images/banniere.jpg)
-
-
   
 ## Présentation
 
@@ -14,9 +12,11 @@ Le projet **FRAGMENTS #KH50** vise à réunir les fragments du peuple khmer auto
 
 Au gré de l’histoire du Cambodge, la population cambodgienne s’est fragmentée pour fuir la guerre civile entre 1970-75, puis le régime sous Pol Pot entre le 17 avril 1975 et le 7 janvier 1979. Aujourd’hui encore, seules des bribes de vie restent, conséquences d’un exil forcé et de la disparition d’environ deux millions de parents, grands-parents, frères, sœurs, oncles, tantes, neveux, nièces, cousins, cousines. Amputés des membres de leur famille, les survivants restent meurtris par la disparition de leurs proches. Muet de douleur, la transmission auprès de la deuxième génération et des suivantes ne se fait pas ou filtre peu.
 
+
 ![image d'illustration](/images/presentation/1.jpg)
 
  L’objectif principal du projet **FRAGMENTS #KH50** est de **récolter et rassembler les fragments d’histoires personnelles, pour reconstituer une mémoire collective**.
+ 
 
 ![image d'illustration](/images/presentation/2.jpg)
 
