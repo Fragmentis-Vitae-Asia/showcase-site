@@ -50,6 +50,8 @@ _**MÉMOIRE, TRANSMISSION, RÉSILIENCE**_
 ![image d'illustration](/images/presentation/5.jpg)
 
 2/ Un film-documentaire retraçant l’exode de rescapés : Le film retrace le parcours des familles et leur issue à travers le portrait intergénérationnel de tout un peuple. À partir du regard des auteurs partis sur place pour suivre le trajet de leurs parents. Au gré des rencontres qui parsèment leurs routes, ce sera l’occasion de récolter des témoignages en forme d’héritage. Chaque témoignage constitue ainsi un fragment de notre histoire. Le film documentaire recueille aussi des success stories, des témoignages de générations Khmers ayant réussi à se reconstruire et construire sur leur terre d’accueil et à l’international.
+
+
 ![image d'illustration](/images/presentation/3.jpg)
 
 3/ La mise en place d’une plateforme en ligne pour recueillir et consulter les témoignages des rescapés et réfugiés. La plateforme sera un lieu digital en web3 qui accueillera la version NFT dématérialisée du monument. Les familles pourront aussi découvrir la genèse du projet et un métavers où différents parcours des familles via différents pays permettra de comprendre quels ont été les chemins que les familles ont pris pour arriver à leur terre d’accueil finale. Ces fragments de témoignages et d’histoire seront reliés au monument et permettront aux familles d’interagir, de pouvoir reconstituer les fragments de vie et de leurs histoires familiales.
