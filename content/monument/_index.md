@@ -13,5 +13,6 @@ title: Monument
 
 <br>
 
+![One Pager](/images/presentation/dossier-presentation-memorial-KH50-P40.png)
 
 {{% cta %}}
