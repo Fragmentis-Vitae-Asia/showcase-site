@@ -1,10 +1,12 @@
 ---
 title: Le projet dans la presse
 ---
-
-![Article Le Parisien](/images/presentation/le-parisien-20241030.png)
-
 ![Hero image](/images/banniere.jpg)
+
+Article paru dans le Parisien, le Mercredi 30 Octobre 2024 (édition Seine-et-Marne)
+![Article Le Parisien](/images/presentation/le-parisien-20241030.png)
+<br><br>
+
 
 <div style="text-align:center;">
   <div style="margin:8px 0px 4px;">
