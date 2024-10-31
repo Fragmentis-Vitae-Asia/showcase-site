@@ -2,6 +2,8 @@
 title: Le projet dans la presse
 ---
 
+![Article Le Parisien](/images/presentation/Le Parisien 30_10_2024.png)
+
 ![Hero image](/images/banniere.jpg)
 
 <div style="text-align:center;">
