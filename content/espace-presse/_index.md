@@ -2,7 +2,7 @@
 title: Le projet dans la presse
 ---
 
-![Article Le Parisien](/images/presentation/Le Parisien 30_10_2024.png)
+![Article Le Parisien](/images/presentation/le_parisien_20241030.png)
 
 ![Hero image](/images/banniere.jpg)
 
