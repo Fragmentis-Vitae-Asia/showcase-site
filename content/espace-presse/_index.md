@@ -2,7 +2,7 @@
 title: Le projet dans la presse
 ---
 
-![Article Le Parisien](/images/presentation/dossier-presentation-memorial-KH50-P40.png)
+![Article Le Parisien](/images/presentation/le-parisien-20241030.png)
 
 ![Hero image](/images/banniere.jpg)
 
