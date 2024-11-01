@@ -11,3 +11,5 @@ title: Shop
   <h2>La collaboration textiles KH&Co</h1>
   <img src="/images/khco.jpg">
 </a>
+
+{{% cta %}}
