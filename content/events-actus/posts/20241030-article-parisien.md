@@ -12,3 +12,4 @@ L’association Fragmentis Vitae Asia remercie Le Parisien pour l’article ains
 L’association est fière de compter parmi elle des soutiens d’exception : contributeurs, donateurs, partenaires. L’aventure continue grâce à vous tous ! Faites passer le mot 😊
 
 ![image d'illustration](/images/events/parisien-2024.PNG)
+ 
