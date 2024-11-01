@@ -1,7 +1,7 @@
 - name: Ville de Lognes
   picture: "/images/companies/lognes.jpg"
 - name: Ville de Noisiel
-  picture: "/images/companies/noisiel.png" 
+  picture: "/images/companies/noisiel.png"
 - name: Ville de Bussy-Saint-Georges
   picture: "/images/companies/bussy.png"
 - name: GFC Pharma
@@ -29,7 +29,7 @@
   picture: "/images/companies/galerie-oia.jpeg"
 - name: "Hôtel Mercure Bussy-Saint-Georges"
   picture: "/images/companies/mercure-bussy.jpeg"
- - name: Cercle Leonardo da Vinci
-  picture: "/images/companies/cercle-de-vinci.jpg" 
- - name: Pâtes Thai
-  picture: "/images/companies/pates-thai.jpg" 
+- name: Cercle Leonardo da Vinci
+  picture: "/images/companies/cercle-de-vinci.jpg"
+- name: Pâtes Thai
+  picture: "/images/companies/pates-thai.jpg"
