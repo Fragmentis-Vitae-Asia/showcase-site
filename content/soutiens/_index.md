@@ -13,7 +13,7 @@ title: Soutiens et partenariats
 
 ## Nos partenaires
 
-{{% support-companies %}}
+{{% companies %}}
 
 ## Les personnalités qui soutiennent Fragments #KH50
 
