@@ -10,10 +10,11 @@ title: Le projet FRAGMENTS KH50
 Le projet **FRAGMENTS #KH50** vise à réunir les fragments du peuple khmer autour de projets fédérateurs cinquante ans après le début des crimes perpétrés par le régime de Pol Pot et de l’exil forcé des nombreuses familles d’Asie du Sud-Est
 
 
-Au gré de l’histoire du Cambodge, la population cambodgienne s’est fragmentée pour fuir la guerre civile entre 1970-75, puis le régime sous Pol Pot entre le 17 avril 1975 et le 7 janvier 1979. Aujourd’hui encore, seules des bribes de vie restent, conséquences d’un exil forcé et de la disparition d’environ deux millions de parents, grands-parents, frères, sœurs, oncles, tantes, neveux, nièces, cousins, cousines. Amputés des membres de leur famille, les survivants restent meurtris par la disparition de leurs proches. Muet de douleur, la transmission auprès de la deuxième génération et des suivantes ne se fait pas ou filtre peu.
-
 
 ![image d'illustration](/images/presentation/1.jpg)
+
+Au gré de l’histoire du Cambodge, la population cambodgienne s’est fragmentée pour fuir la guerre civile entre 1970-75, puis le régime sous Pol Pot entre le 17 avril 1975 et le 7 janvier 1979. Aujourd’hui encore, seules des bribes de vie restent, conséquences d’un exil forcé et de la disparition d’environ deux millions de parents, grands-parents, frères, sœurs, oncles, tantes, neveux, nièces, cousins, cousines. Amputés des membres de leur famille, les survivants restent meurtris par la disparition de leurs proches. Muet de douleur, la transmission auprès de la deuxième génération et des suivantes ne se fait pas ou filtre peu.
+
 
  L’objectif principal du projet **FRAGMENTS #KH50** est de **récolter et rassembler les fragments d’histoires personnelles, pour reconstituer une mémoire collective**.
  
@@ -38,23 +39,28 @@ La réussite du projet permettra d’apporter des réponses à toute la généra
 
 _Le projet sera suivi par un comité scientifique composé de chercheurs travaillant sur les sujets connexes à la mémoire et aux migrations. FRAGMENTS #KH50 est soutenu par le réseau de recherche Migrations de l'Asie de l'Est et du Sud-Est en France (MAF)_.
 
+![image d'illustration](/images/presentation/4.jpg)
+
 _**MÉMOIRE, TRANSMISSION, RÉSILIENCE**_ 
 
-![image d'illustration](/images/presentation/4.jpg)
+
  
  **FRAGMENTS #KH50** repose sur trois piliers : 
 
 1/ Un mémorial à la mémoire des victimes du régime de Pol Pot, en l’honneur du courage et de la résilience des réfugiés d’Asie du Sud-Est, en hommage aux combattants d’Asie du Sud-Est morts pour la France et en reconnaissance à la France, terre d’accueil de nos parents. Le Mémorial sera érigé dans la commne Lognes, en Seine-et-Marne, et sera inauguré au printemps 2025 pour commémorer le cinquantenaire de la Prise de Phnom-Penh (17 avril 1975). 
 
+![image d'illustration](/images/presentation/3.jpg)
 
-![image d'illustration](/images/presentation/5.jpg)
 
 2/ Un film-documentaire retraçant l’exode de rescapés : Le film retrace le parcours des familles et leur issue à travers le portrait intergénérationnel de tout un peuple. À partir du regard des auteurs partis sur place pour suivre le trajet de leurs parents. Au gré des rencontres qui parsèment leurs routes, ce sera l’occasion de récolter des témoignages en forme d’héritage. Chaque témoignage constitue ainsi un fragment de notre histoire. Le film documentaire recueille aussi des success stories, des témoignages de générations Khmers ayant réussi à se reconstruire et construire sur leur terre d’accueil et à l’international.
 
+![image d'illustration](/images/presentation/5.jpg)
 
-![image d'illustration](/images/presentation/3.jpg)
+
 
 3/ La mise en place d’une plateforme en ligne pour recueillir et consulter les témoignages des rescapés et réfugiés. La plateforme sera un lieu digital en web3 qui accueillera la version NFT dématérialisée du monument. Les familles pourront aussi découvrir la genèse du projet et un métavers où différents parcours des familles via différents pays permettra de comprendre quels ont été les chemins que les familles ont pris pour arriver à leur terre d’accueil finale. Ces fragments de témoignages et d’histoire seront reliés au monument et permettront aux familles d’interagir, de pouvoir reconstituer les fragments de vie et de leurs histoires familiales.
+
+_Le projet sera suivi par un comité scientifique composé de chercheurs travaillant sur les sujets connexes à la mémoire et aux migrations. FRAGMENTS #KH50 est soutenu par le réseau de recherche Migrations de l'Asie de l'Est et du Sud-Est en France (MAF)_.
 
 
 ![image d'illustration](/images/presentation/6.jpg)
