@@ -1,0 +1,103 @@
+main:has(#div-shop) {
+    max-width: calc(var(--nav-width) + var(--gap));
+}
+
+#div-shop, #shop-content {
+    text-align: left;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+#shop-content h2 {
+    margin-left: 0;
+}
+
+@media (max-width: 962px) {
+    #shop-content h2 {
+        font-size: 24px;
+    }
+}
+#div-shop p {
+    opacity: 85%;
+}
+
+#shop-content {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 100%;
+    gap: 20px;
+}
+.vignettes, .btn-redirect, .vignettes img, .vignettes:hover img, .div-shop-vignettes {
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+
+.div-shop-vignettes img {
+    width: 100%;
+    height: 100%;
+}
+@media (min-width: 768px) {
+    .div-shop-vignettes {
+        flex: 1 1 40%;
+        height: 400px;
+        width: auto;
+    }
+}
+
+@media (max-width: 982px) {
+    .div-shop-vignettes {
+        flex: 1 1 100%;
+        height: auto;
+        width: 100%;
+    }
+}
+
+.vignettes {
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+    position: relative;
+}
+
+.vignettes .btn-redirect {
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    font-weight: bold;
+    box-shadow: none;
+    z-index: 1;
+    width: fit-content;
+    position: absolute;
+    bottom: 110px;
+    right: 15px;
+    transition: border 0.3s ease, box-shadow 0.3s ease;
+    border: 2px solid transparent;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+.vignettes img {
+    width: 100%;
+    height: auto;
+    transition: transform 0.3s ease, filter 0.3s ease;
+}
+
+.btn-redirect svg {
+    fill: white;
+}
+
+.vignettes:hover .btn-redirect, .vignettes a:hover .btn-redirect {
+    border: 2px solid white;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+}
+
+.vignettes:hover img {
+    transform: scale(1.05);
+    filter: brightness(1.1);
+}
