@@ -1,5 +1,5 @@
 ---
-title: Le projet FRAGMENTS KH50
+title: Le crowdfunding
 ---
 
 ![Hero image](/images/banniere.jpg)
