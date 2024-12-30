@@ -72,6 +72,12 @@ params:
   profileMode:
     # Disable to populate home page with 'mainSections' content
     enabled: true
+
+    
+    title: "Titre 1"
+    description: "description 1"
+
+    
     title: "Fragments #KH50"
     description:
       "Le projet FRAGMENTS #KH50 a été initié par des descendants de familles ayant fui le Cambodge pour se réfugier en France afin de mener un travail de mémoire.  Du fait de l’exil et de la guerre, chacun ne possède que quelques fragments de l’histoire de sa famille.\n
