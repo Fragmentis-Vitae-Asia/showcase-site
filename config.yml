@@ -72,11 +72,6 @@ params:
   profileMode:
     # Disable to populate home page with 'mainSections' content
     enabled: true
-
-    
-    title: "Titre 1"
-    description: "description 1"
-
     
     title: "Fragments #KH50"
     description:
