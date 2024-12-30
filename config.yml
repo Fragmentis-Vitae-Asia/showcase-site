@@ -8,6 +8,9 @@ menu:
     - name: Le projet
       url: /presentation/
       weight: 10
+    - name: "Crowdfunding"
+      url: /crowdfunding/
+      weight: 15
     - name: "Mémorial #KH50"
       url: /monument/
       weight: 20
