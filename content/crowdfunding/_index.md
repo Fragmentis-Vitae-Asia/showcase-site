@@ -28,7 +28,7 @@ Chaque euro nous rapproche de notre objectif. Voici comment vos dons seront util
 
 
 
-![image d'illustration][(/images/events/memorial-in-situ-ulule.jpg)](https://fr.ulule.com/memorial-kh50/)
+[![image d'illustration](/images/events/memorial-in-situ-ulule.jpg)](https://fr.ulule.com/memorial-kh50/)
 
 
  
