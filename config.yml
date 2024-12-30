@@ -8,7 +8,6 @@ menu:
     - name: Le projet
       url: /presentation/
       weight: 10
-
     - name: "Mémorial #KH50"
       url: /monument/
       weight: 20
