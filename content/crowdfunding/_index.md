@@ -17,7 +17,7 @@ Soutenons-nous, il s'agit de la dernière ligne droite pour le monument !</br></
 🇰🇭 Il y a 50 ans, le Cambodge plongeait dans l’une des périodes les plus sombres de son histoire sous le régime de Pol Pot. Pendant 44 mois, des millions de vies furent brisées, des familles dispersées, une culture décimée. Aujourd’hui, à travers le projet Fragments #KH50, nous souhaitons honorer ces mémoires et offrir aux générations futures un lieu de réflexion et de transmission. </br>
 
 
-## Présentation
+## Grâce à votre soutien
 
 
 Chaque euro nous rapproche de notre objectif. Voici comment vos dons seront utilisés :
