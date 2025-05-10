@@ -4,7 +4,7 @@ description: "Retour sur l'inauguration du mémorial qui rassembla trois cents p
 date: 2025-04-17
 image: /images/events/kh50/inauguration-devoilement.jpg
 ---
-# Mémorial KH50 : une œuvre dédié dédié aux familles originaires du Cambodge et en souvenir des victimes de Pol Pot
+## Mémorial KH50 : une œuvre dédié dédié aux familles originaires du Cambodge et en souvenir des victimes de Pol Pot
 
 Devant le Mémorial KH50 encore couvert de tissu en velours rouge, une foule, debout, formée de trois cents visages, de tout âge, s’est formée autour de l’ambassadeur du Cambodge en France, David LUY, du maire de Lognes Nicolas DELAUNAY, des personnalités politiques et artistiques, ainsi que des figures de la diaspora cambodgienne en France.
 <br><br>
@@ -16,13 +16,21 @@ _Les stèles composant le Mémorial KH50 ont été dévoilées à Lognes (en Sei
 
 ## Discours de Sun-Lay TAN 
 
-[![image d'illustration](/images/events/kh50/inauguration-discours-slt.JPG)](https://youtu.be/mA8bvEZmCPM?si=pyv3a2ZH0aekmGgn)
-
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/mA8bvEZmCPM?si=pyv3a2ZH0aekmGgn" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br><br>
-ddd
-<br><br>
 <iframe width="860" height="300" src="https://www.youtube.com/embed/mA8bvEZmCPM?si=pyv3a2ZH0aekmGgn" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br><br>
+Fruit de la collaboration entre Alexia Chaing, la directrice artistique et les artistes Ramya Choun, Patrick Ngoum, le Mémorial KH50 a vu le jour grâce à **la générosité de mécènes privés**, à **l’appui d’élus locaux** et au **travail infatigable des bénévoles**. Son esthétique puise dans l’iconographie khmère : stèles sculptées, dorures délicates, et symboles à forte charge spirituelle – Hanuman, le lotus, la conque, le poisson Koï, le chatra, le Naga. Chacun évoque un pan de cette mémoire, mais aussi l’élan vital d’une communauté debout.
+<br><br>
+**Le projet Fragments KH50 ne s’arrête pas là :** jusqu’au 7 janvier 2029, témoignages filmés, documentaires, plateforme numérique et actions éducatives viendront nourrir cette dynamique mémorielle. Une manière aussi de faire entrer cette tragédie dans les programmes scolaires, dans les musées, dans les consciences. _“Trois ans, huit mois et vingt et un jours, c’est le temps qu’il a fallu aux Khmers rouges pour détruire un pays »_, déclare  Sun-Lay Tan. _“Trois ans, huit mois et vingt et un jours, c’est aussi le temps que nous nous donnons pour parler, écouter, guérir et se réconcilier”_. 
+<br><br>
+Après les discours officiels et la découpe du ruban inaugural par l’Ambassadeur, le maire de Lognes et le président de Fragmentis Vitae Asia, le public est invité à découvrir les stèles, **dévoilées une à une**. La cérémonie prend alors une autre dimension : celle du rite.
+<br><br>
+Les hymnes nationaux — _La Marseillaise_ par la jeune Saphira Boun, et _Nokor Reach_ interprété avec ferveur par So Savoeurn, accompagnée par Touch Lydia — résonnent a capella, dans une intensité qui fait frissonner les anciens et mouille les yeux des plus jeunes. 
+
+## Écoutez l’hymne cambodgien
+<iframe width="860" height="300" src="https://www.youtube.com/embed/LIDP4-mMUCE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 🔎 Lire l’article en anglais : [Khmer Times](https://www.khmertimeskh.com/501630314/eccc-fragmentis-vitae-asia-sign-mou-on-legacy-preservation/)
 <br><br>
