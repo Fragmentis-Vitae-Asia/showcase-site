@@ -16,7 +16,7 @@ _Les stèles composant le Mémorial KH50 ont été dévoilées à Lognes (en Sei
 
 ## Discours de Sun-Lay TAN 
 
-<iframe width="860" height="420" src="https://www.youtube.com/embed/mA8bvEZmCPM?si=pyv3a2ZH0aekmGgn" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="860" height="400" src="https://www.youtube.com/embed/mA8bvEZmCPM?si=pyv3a2ZH0aekmGgn" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br><br>
 Fruit de la collaboration entre Alexia Chaing, la directrice artistique et les artistes Ramya Choun, Patrick Ngoum, le Mémorial KH50 a vu le jour grâce à **la générosité de mécènes privés**, à **l’appui d’élus locaux** et au **travail infatigable des bénévoles**. Son esthétique puise dans l’iconographie khmère : stèles sculptées, dorures délicates, et symboles à forte charge spirituelle – Hanuman, le lotus, la conque, le poisson Koï, le chatra, le Naga. Chacun évoque un pan de cette mémoire, mais aussi l’élan vital d’une communauté debout.
@@ -28,7 +28,7 @@ Après les discours officiels et la découpe du ruban inaugural par l’Ambassad
 Les hymnes nationaux — _La Marseillaise_ par la jeune Saphira Boun, et _Nokor Reach_ interprété avec ferveur par So Savoeurn, accompagnée par Touch Lydia — résonnent a capella, dans une intensité qui fait frissonner les anciens et mouille les yeux des plus jeunes. 
 
 ## Écoutez l’hymne cambodgien
-<iframe width="860" height="420" src="https://www.youtube.com/embed/LIDP4-mMUCE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="860" height="400" src="https://www.youtube.com/embed/LIDP4-mMUCE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
