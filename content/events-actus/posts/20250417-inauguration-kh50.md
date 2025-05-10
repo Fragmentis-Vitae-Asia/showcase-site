@@ -16,7 +16,7 @@ _Les stèles composant le Mémorial KH50 ont été dévoilées à Lognes (en Sei
 
 ## Discours de Sun-Lay TAN 
 
-<iframe width="860" height="400" src="https://www.youtube.com/embed/mA8bvEZmCPM?si=pyv3a2ZH0aekmGgn" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="860" height="380" src="https://www.youtube.com/embed/mA8bvEZmCPM?si=pyv3a2ZH0aekmGgn" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br><br>
 Fruit de la collaboration entre Alexia Chaing, la directrice artistique et les artistes Ramya Choun, Patrick Ngoum, le Mémorial KH50 a vu le jour grâce à **la générosité de mécènes privés**, à **l’appui d’élus locaux** et au **travail infatigable des bénévoles**. Son esthétique puise dans l’iconographie khmère : stèles sculptées, dorures délicates, et symboles à forte charge spirituelle – Hanuman, le lotus, la conque, le poisson Koï, le chatra, le Naga. Chacun évoque un pan de cette mémoire, mais aussi l’élan vital d’une communauté debout.
@@ -27,10 +27,48 @@ Après les discours officiels et la découpe du ruban inaugural par l’Ambassad
 <br><br>
 Les hymnes nationaux — _La Marseillaise_ par la jeune Saphira Boun, et _Nokor Reach_ interprété avec ferveur par So Savoeurn, accompagnée par Touch Lydia — résonnent a capella, dans une intensité qui fait frissonner les anciens et mouille les yeux des plus jeunes. 
 
-## Écoutez l’hymne cambodgien
-<iframe width="860" height="400" src="https://www.youtube.com/embed/LIDP4-mMUCE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Écoutez l’hymne cambodgien - Nokor Reach
+<iframe width="860" height="380" src="https://www.youtube.com/embed/LIDP4-mMUCE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
-🔎 Lire l’article en anglais : [Khmer Times](https://www.khmertimeskh.com/501630314/eccc-fragmentis-vitae-asia-sign-mou-on-legacy-preservation/)
+## Écoutez l'hymne français - La Marseillaise
+<iframe width="860" height="380" src="https://www.youtube.com/embed/TMG79XPXDrs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
+<br><br>
+
+Puis, fait exceptionnel, les représentants des principales pagodes bouddhistes de France unissent leurs prières dans une cérémonie commune, empreinte de solennité et d’harmonie. Le Père Vincent, prêtre catholique vient à son tour offrir une bénédiction chrétienne. Le silence se fait dense. Le Cambodge et la France, dans un même souffle.
+<br><br>
+L’association adresse ses remerciements aux vénérables présents : <br>
+•⁠ ⁠YOS HUT, CHEF DE PAGODE DE BAGNEUX <br>
+•⁠ ⁠TOUCH SARITH, CHEF DE PAGODE DE BORDEAUX, DE BAGNEUX ET DE GOURNAY<br>
+•⁠ ⁠BOUR CRY, CHEF DE PAGODE DE CRÉTEIL<br>
+•⁠ ⁠NOEURN, CHEF DE PAGODE DE LA PAGODE DE COUILLY-PONT-AUX-DAMES<br>
+•⁠ TEN CHENDA, CHEF DE PAGODE CHANRAINGSEY DE TREMBLAY-EN-FRANCE<br>
+•⁠ CHHIENG MAY, DE LA PAGODE CHANRAINGSEY DE TREMBLAY-EN-FRANCE<br>
+<br>
+Ainsi qu’au Père Vincent des Missions étrangères de Paris. 
+<br><br>
+Fragments KH50 se veut aussi un pont entre les générations, entre la mémoire silencieuse des parents et la voix affirmée des enfants.  En effet, derrière ce Mémorial, il y a un combat plus vaste, celui de faire vivre une mémoire diasporique, trop longtemps ignorée : “Nous nous engageons pleinement dans la Francophonie, car la langue est le vecteur vivant de la **transmission** de la **mémoire**. Et nous savons combien nos parents ont peiné à trouver les mots pour parler de leur souffrance enfouie trop longtemps dans le silence.” 
+<br>
+À Lognes, ce 17 avril 2025, un pan de l’histoire cambodgienne s’est enraciné dans le sol français. Et dans le cœur de ceux qui, en ce jour, ont senti que les morts pouvaient enfin reposer. Et que les vivants, enfin, pouvaient parler.
+
+## Retrouvez le clip des temps forts de cette journée inaugurale
+<iframe width="860" height="380" src="https://www.youtube.com/embed/tIuex2KcfkU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## La presse en parle
+Retrouvez ci-dessous quelques coupures de presse relatives à l'inauguration.
+
+**RFI :**
+[RFI](https://www.rfi.fr/fr/france/20250417-une-génération-franco-cambodgienne-en-quête-de-mémoire-50-ans-après-l-horreur-des-khmers-rouges)
+
+**Actu.fr :** 
+[Actu.fr](https://actu.fr/ile-de-france/lognes_77258/ma-mere-est-une-survivante-un-memorial-pour-les-victimes-du-genocide-au-cambodge-erige-en-seine-et-marne_62530157.html)
+
+**Le Parisien :**
+[Le Parisien](https://www.leparisien.fr/seine-et-marne-77/loubli-est-une-seconde-mort-lognes-accueille-un-monument-dedie-a-la-memoire-des-victimes-des-khmers-rouges-18-04-2025-3GCANNMGVBGUPLZSFWMV7FXLGU.php)
+
+**Cambodianess (en anglais) :**
+[Cambodianess](https://cambodianess.com/article/to-forget-is-like-a-second-death-50-years-later-a-memorial-to-remember-the-khmer-rouge-era)
+
+**Instagram d’Emma Garboud-Lorenzi :**
+[Instagram](https://www.instagram.com/reel/DImTduNsNl4/?igsh=MWdwZ3pmaDBkNjU5cQ==)
+
