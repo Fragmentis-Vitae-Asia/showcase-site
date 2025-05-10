@@ -22,7 +22,7 @@ _Les stèles composant le Mémorial KH50 ont été dévoilées à Lognes (en Sei
 <br><br>
 ddd
 <br><br>
-<iframe width="580" height="420" src="https://www.youtube.com/embed/mA8bvEZmCPM?si=pyv3a2ZH0aekmGgn" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="680" height="420" src="https://www.youtube.com/embed/mA8bvEZmCPM?si=pyv3a2ZH0aekmGgn" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 🔎 Lire l’article en anglais : [Khmer Times](https://www.khmertimeskh.com/501630314/eccc-fragmentis-vitae-asia-sign-mou-on-legacy-preservation/)
 <br><br>
