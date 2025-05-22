@@ -78,7 +78,7 @@ L’association à but non lucratif a besoin du soutien d’adhérents pour que 
 
 Chaque adhésion compte, merci pour votre soutien !
 
-[**Adhérer à l’association 🤝**](https://www.helloasso.com/associations/fragmentis-vitae/adhesions/adhesion)
+[**Adhérer à l’association 🤝**](https://www.helloasso.com/associations/fragmentis-vitae/adhesions/adhesion-2025)
 
 ## Et si on allait plus loin ?
 
