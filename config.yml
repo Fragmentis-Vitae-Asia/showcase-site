@@ -23,9 +23,6 @@ menu:
     - name: Soutiens
       url: /soutiens/
       weight: 50
-    - name: "Contributeurs"
-      url: /contributeurs/
-      weight: 55
     - name: "Shop"
       url: /shop/
       weight: 60
