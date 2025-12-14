@@ -1,12 +1,18 @@
+- name: Tang Frères
+  picture: "/images/companies/tang-freres.png"
+- name: GFC Pharma
+  picture: "/images/companies/gfc.png"
+  link: "https://gfc.pharminfo.fr/"
+- name: CFA Voyages
+  picture: "/images/companies/cfa.png"
+- name: Varman Rénovation
+  picture: "/images/companies/varman.png"
 - name: Ville de Lognes
   picture: "/images/companies/lognes.jpg"
 - name: Ville de Noisiel
   picture: "/images/companies/noisiel.png"
 - name: Ville de Bussy-Saint-Georges
   picture: "/images/companies/bussy.png"
-- name: GFC Pharma
-  picture: "/images/companies/gfc.png"
-  link: "https://gfc.pharminfo.fr/"
 - name: Ecole Khmère de Paris
   picture: "/images/companies/ekp.png"
 - name: Selepak Khmer
@@ -37,20 +43,14 @@
   picture: "/images/companies/ECCC.png"
 - name: Mission étrangères de Paris
   picture: "/images/companies/MEP-Logo-RGBSB.png"
-- name: CFA Voyages
-  picture: "/images/companies/cfa.png"
 - name: Easy Virtual Tour
   picture: "/images/companies/easyvirtualtour.png"
 - name: MJC Lognes
   picture: "/images/companies/mjc.png"
 - name: Pâtisserie de saison
   picture: "/images/companies/patisserie-saison.jpg"
-- name: Tang Frères
-  picture: "/images/companies/tang-freres.png"
 - name: Tran Traiteur
   picture: "/images/companies/tran-traiteur.jpeg"
-- name: Varman Rénovation
-  picture: "/images/companies/varman.png"
 - name: Veng Hour
   picture: "/images/companies/venghour.jpg"
 - name: Vision Center
