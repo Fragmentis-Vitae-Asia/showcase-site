@@ -82,9 +82,9 @@ params:
     imageHeight: 300
     buttons:
       - name: Adhérer à l'association 🤝
-        url: https://www.helloasso.com/associations/fragmentis-vitae/adhesions/adhesion-2026
+        url: https://www.helloasso.com/associations/fragmentis-vitae-asia-bussy-saint-georges/adhesions/adhesion-2026
       - name: Faire un don ❤️
-        url: https://www.helloasso.com/associations/fragmentis-vitae/formulaires/1
+        url: https://www.helloasso.com/associations/fragmentis-vitae-asia-bussy-saint-georges/formulaires/1
       - name: Témoigner 🗣️
         url: /temoignages/
 
