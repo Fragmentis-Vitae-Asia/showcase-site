@@ -78,7 +78,7 @@ L’association à but non lucratif a besoin du soutien d’adhérents pour que 
 
 Chaque adhésion compte, merci pour votre soutien !
 
-[**Adhérer à l’association 🤝**](https://www.helloasso.com/associations/fragmentis-vitae/adhesions/adhesion-2025)
+[**Adhérer à l’association 🤝**](https://www.helloasso.com/associations/fragmentis-vitae-asia-bussy-saint-georges/adhesions/adhesion-2026)
 
 ## Et si on allait plus loin ?
 
@@ -91,7 +91,7 @@ Des bénévoles œuvrent pour donner vie au projet ; mais votre aide financière
 **L’association Fragmentis Vitae Asia est reconnue d’intérêt général. Les dons sont déductibles de l’impôt sur le revenu à hauteur de 66% et de l’impôt sur les sociétés à hauteur de 60%.**
 
 
-[**Faire un don ❤️**](https://www.helloasso.com/associations/fragmentis-vitae/formulaires/1)
+[**Faire un don ❤️**](https://www.helloasso.com/associations/fragmentis-vitae-asia-bussy-saint-georges/formulaires/1)
 
 
 
