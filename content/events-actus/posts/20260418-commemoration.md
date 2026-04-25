@@ -8,6 +8,7 @@ image: /images/events/commemoration.JPG
 <br><br>
 La plaque informative du Mémorial KH50 a été dévoilée samedi 18 avril à Lognes, en présence de plusieurs personnalités engagées dans ce travail de mémoire. Installé à proximité du mémorial, cet équipement permet désormais au public de mieux comprendre sa portée symbolique et s’inscrit dans la démarche de transmission de l’histoire des familles originaires du Cambodge.
 Ont notamment pris part à cette inauguration : **Nicolas Delaunay**, maire de Lognes, **Alexia Yumcha**, directrice artistique du Mémorial KH50, S.E. **Kosal Long**, ambassadeur du Cambodge auprès de l’UNESCO, S.E. **David Luy**, ambassadeur du Cambodge en France, **Khentanat**, président de la société Sentai Asiancook, ainsi que **Sun-Lay Tan**, président de Fragmentis Vitae .
+<br><br>
 ![image d'illustration](/images/events/commemoration.jpg)
 
 <br><br>
