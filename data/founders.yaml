@@ -2,12 +2,9 @@ founders:
   - fullname: "Sun-Lay Tan"
     bio: "Journaliste et militant associatif, Sun-Lay Tan est né de parents cambodgiens. Depuis 2016, il milite contre les discriminations faites aux Asiatiques de France au sein d’un collectif dont il a été le porte-parole. Il est **l’initiateur du projet Fragments #KH50** et **Président-fondateur de l’association Fragmentis Vitae Asia.**"
     picture: "/images/founders/sunlay_tan.jpeg"
-  - fullname: "Frédéric Dabi"
-    bio: "Directeur-général de l’institut de sondage _IFOP_, Frédéric Dabi est un amoureux de la culture cambodgienne. Il en fait la promotion en particulier à travers l’association du _Ballet Classique Khmer_ (BCK). **Il est l’interlocuteur principal des institutions publiques et politiques pour le projet Fragments.**"
-    picture: "/images/founders/frederic_dabi.jpeg"
-  - fullname: "Matthieu Lim"
-    bio: "Entrepreneur d’origine sino-cambodgienne, né en France, Matthieu Lim est **coordinateur du projet Fragments** et veille au bon déroulement des missions des protagonistes impliqués dans le projet, grâce à son expérience professionnelle et son héritage multiculturel."
-    picture: "/images/founders/matthieu_lim.jpeg"
+    - fullname: "Olivier Chhu"
+    bio:
+    picture: 
   - fullname: "Sébastien Kong"
     bio: "Producteur et réalisateur d'origine sino-cambodgienne, Sébastien Kong s’investit et se consacre depuis 2020 à des contenus qui traitent de la communauté asiatique en France sous tous ses aspects. Déjà engagé pour la diversité et l’inclusion dans le cinéma ; **Fragments #KH50** s’inscrit comme une évidence, pour partager l’héritage de ses origines."
     picture: "/images/founders/sebastien_kong.jpeg"
@@ -17,12 +14,9 @@ founders:
   - fullname: "Lydie Kao"
     bio: "Conseillère funéraire dans la petite entreprise familiale que son père a créée en 2005, Lydie Kao aide les futures générations à comprendre les rituels funéraires aux ancêtres à travers les  traditions qui y sont rattachées.<br>Elle sera un des acteurs liés à la création du monument."
     picture: "/images/founders/lydie_kao.jpeg"
-  - fullname: "Judith Kheum-Khau"
-    bio: "Judith Kheum est née en 1976 en pleine guerre, réfugiée cambodgienne arrivée en France à l’âge de 3 ans 1/2. Elle est impliquée dans l’association pour perpétuer la mémoire collective aux jeunes générations et  « libérer une souffrance silencieuse ». Les fragments d’histoire de sa famille l’ont naturellement rapprochée de Fragmentis Vitae Asia."
-    picture: "/images/founders/judith_khau.jpg"
   - fullname: "Hervé Cadet"
     bio: "Ancien fonctionnaire aux Affaires étrangères et attaché parlementaire, Hervé Cadet est investi dans la promotion artistique. Lié au Cambodge par sa belle-famille et déjà investi dans des associations défendant des valeurs universalistes, il a rejoint Fragments #KH50 pour contribuer à ce projet aux vocations mémorielles, patrimoniales et de vivre-ensemble."
     picture: "/images/founders/herve_cadet.JPG"
-  - fullname: "Alain Khau"
-    bio: "Alain Khau est d’origine sino-cambodgienne. Ayant une longue expérience dans le secteur de l’Internet et de la cybersécurité, il souhaite mettre un point d’honneur à la transmission intergénérationnelle de la mémoire du génocide au Cambodge avec la création d’une plateforme numérique et sécurisée."
-    picture: "/images/founders/alain_khau.jpg"
+
+    
+
